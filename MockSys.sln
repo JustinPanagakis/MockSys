@@ -44,6 +44,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentat
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notification", "Notification", "{D0504A4C-453A-4330-81FD-4E3E466F649D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockSys.Notification.Ctrl", "MockSys.Notification.Ctrl\MockSys.Notification.Ctrl.csproj", "{BA8B4B79-BF60-4487-A0EE-D6884A99A891}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,6 +94,10 @@ Global
 		{3896503A-C9B9-B117-C65E-257801C62656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3896503A-C9B9-B117-C65E-257801C62656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3896503A-C9B9-B117-C65E-257801C62656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8B4B79-BF60-4487-A0EE-D6884A99A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8B4B79-BF60-4487-A0EE-D6884A99A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8B4B79-BF60-4487-A0EE-D6884A99A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8B4B79-BF60-4487-A0EE-D6884A99A891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -104,6 +112,7 @@ Global
 		{CBFA309D-79F2-45FA-95C2-BC5C28330C1F} = {AAAD212B-664D-486A-B78A-6BB6B8E63E97}
 		{76B04138-0D4E-48D9-8798-164A21001548} = {AAAD212B-664D-486A-B78A-6BB6B8E63E97}
 		{3896503A-C9B9-B117-C65E-257801C62656} = {AAAD212B-664D-486A-B78A-6BB6B8E63E97}
+		{BA8B4B79-BF60-4487-A0EE-D6884A99A891} = {D0504A4C-453A-4330-81FD-4E3E466F649D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0F2DA10C-8F91-4965-92D6-44B011E5C546}
