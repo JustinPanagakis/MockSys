@@ -1,0 +1,6 @@
+@MockSys.FakeDataApi_HostAddress = http://localhost:5201
+
+GET {{MockSys.FakeDataApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

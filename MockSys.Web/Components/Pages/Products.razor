@@ -1,0 +1,51 @@
+﻿@page "/products"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject FakeDataApiClient FakeApi
+
+<PageTitle>Fake Products</PageTitle>
+
+<h1>Fake Products</h1>
+
+<p>The full list of fake products used by the example external service.</p>
+
+@if (products == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Brand</th>
+                <th>Name</th>
+                <th>Category</th>
+                <th style="text-align: right;">Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in products)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.Brand</td>
+                    <td>@product.Name</td>
+                    <td>@product.Category</td>
+                    <td style="text-align: right;">$@product.Price.ToString("F2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Product>? products = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await FakeApi.GetFakeProductsAsync();
+    }
+}

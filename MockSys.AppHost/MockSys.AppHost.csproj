@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Sdk Name="Aspire.AppHost.Sdk" Version="9.0.0" />
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <IsAspireHost>true</IsAspireHost>
+    <UserSecretsId>2249ac81-fa3c-4250-842c-cd55ae278b8e</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MockSys.FakeDataApi\MockSys.FakeDataApi.csproj" />
+    <ProjectReference Include="..\MockSys.Reporting.DataSync\MockSys.Reporting.DataSync.csproj" />
+    <ProjectReference Include="..\MockSys.Reporting.ReportETL\MockSys.Reporting.ReportETL.csproj" />
+    <ProjectReference Include="..\MockSys.Web\MockSys.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.4.0" />
+    <PackageReference Include="Aspire.Hosting.Azure.Functions" Version="9.4.0-preview.1.25378.8" />
+    <PackageReference Include="Aspire.Hosting.Azure.ServiceBus" Version="9.4.0" />
+    <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="9.4.0" />
+  </ItemGroup>
+
+</Project>

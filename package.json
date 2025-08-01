@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.26.0",
+    "gulp": "^5.0.0",
+    "gulp-cli": "^3.0.0",
+    "gulp-execa": "^8.0.1"
+  }
+}

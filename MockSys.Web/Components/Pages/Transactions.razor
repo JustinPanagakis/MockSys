@@ -1,0 +1,74 @@
+﻿@page "/transactions"
+@attribute [StreamRendering(true)]
+@attribute [OutputCache(Duration = 5)]
+
+@inject FakeDataApiClient FakeApi
+
+<PageTitle>Fake Transactions</PageTitle>
+
+<h1>Fake Transactions</h1>
+
+<p>A randomly generated set of transactions from the fake users and products from the example external service.</p>
+
+<button class="btn btn-primary" type="button" @onclick="RegenerateTransactions">Regenerate</button>
+
+@if (transactions == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Transaction ID</th>
+                <th>Timestamp</th>
+                <th>User ID</th>
+                <th>User Name</th>
+                <th>User Email</th>
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Brand</th>
+                <th>Category</th>
+                <th style="text-align: right;">Price</th>
+                <th style="text-align: right;">Tax</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var transaction in transactions)
+            {
+                <tr>
+                    <td>@transaction.Id</td>
+                    <td>@transaction.Timestamp</td>
+                    <td>@transaction.UserId</td>
+                    <td>@transaction.UserName</td>
+                    <td>@transaction.UserEmail</td>
+                    <td>@transaction.ProductId</td>
+                    <td>@transaction.ProductName</td>
+                    <td>@transaction.Brand</td>
+                    <td>@transaction.Category</td>
+                    <td style="text-align: right;">$@transaction.Price.ToString("F2")</td>
+                    <td style="text-align: right;">$@transaction.Tax.ToString("F2")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<Transaction>? transactions = null;
+
+    protected override async Task OnInitializedAsync()
+    {
+        transactions = await FakeApi.GetFakeTransactionsAsync();
+    }
+
+    private async Task RegenerateTransactions()
+    {
+        transactions = null;
+
+        await Task.Yield();
+
+        transactions = await FakeApi.GetFakeTransactionsAsync();
+    }
+}

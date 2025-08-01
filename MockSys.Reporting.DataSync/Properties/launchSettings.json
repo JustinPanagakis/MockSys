@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MockSys.Reporting.DataSync": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7242",
+      "launchBrowser": false
+    }
+  }
+}

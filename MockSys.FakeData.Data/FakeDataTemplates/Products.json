@@ -1,0 +1,3502 @@
+﻿[
+  {
+    "id": "35f68f20-c415-4e8e-87b9-44e97389bc48",
+    "brand": "Korg",
+    "name": "Microphone Stand",
+    "price": 8.86,
+    "category": "Accessory"
+  },
+  {
+    "id": "3619db94-57e8-4323-b15c-776033d55314",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 3",
+    "price": 16.85,
+    "category": "Book"
+  },
+  {
+    "id": "bb93120f-75ad-433d-8a7b-4c68f4e6f04b",
+    "brand": "Epiphone",
+    "name": "Digital Piano Model 463",
+    "price": 877.61,
+    "category": "Instrument"
+  },
+  {
+    "id": "e832c32a-4500-466b-a61f-b6d7285bee17",
+    "brand": "Roland",
+    "name": "Electric Guitar Model 725",
+    "price": 717.99,
+    "category": "Instrument"
+  },
+  {
+    "id": "d09ff674-f5eb-483c-92c6-e758374c2802",
+    "brand": "Hal Leonard",
+    "name": "Technique Workbook Vol. 1",
+    "price": 24.78,
+    "category": "Book"
+  },
+  {
+    "id": "f64dff5a-a529-4f3e-bec1-f95f3cbbcac8",
+    "brand": "Epiphone",
+    "name": "Classic Piano Model 702",
+    "price": 524.1,
+    "category": "Instrument"
+  },
+  {
+    "id": "c47491b2-d77e-435f-8a85-2228e55a47c4",
+    "brand": "Roland",
+    "name": "Electric Drum Pad Model 577",
+    "price": 992.99,
+    "category": "Instrument"
+  },
+  {
+    "id": "7763fa39-1b34-4b8f-94d4-4c49b252f71d",
+    "brand": "Fender",
+    "name": "Trumpet Model 592",
+    "price": 1952.05,
+    "category": "Instrument"
+  },
+  {
+    "id": "0cc62852-d42e-411e-abb7-c8b5768cbe93",
+    "brand": "D'Addario",
+    "name": "Instrument Case",
+    "price": 178.78,
+    "category": "Accessory"
+  },
+  {
+    "id": "9aa096b4-b801-4f72-96c0-b34f699af778",
+    "brand": "Gibson",
+    "name": "Digital Piano Model 882",
+    "price": 164.54,
+    "category": "Instrument"
+  },
+  {
+    "id": "a9e59676-b9f0-406e-aeac-c122016ea7f3",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 1",
+    "price": 39.1,
+    "category": "Book"
+  },
+  {
+    "id": "a242d13a-6049-4b18-9a7a-55de0b8d27c8",
+    "brand": "Gator Cases",
+    "name": "Microphone Stand",
+    "price": 40.29,
+    "category": "Accessory"
+  },
+  {
+    "id": "47468b15-fe55-4ec9-a0e9-e8e99dba6c8f",
+    "brand": "Gator Cases",
+    "name": "Capo",
+    "price": 75.51,
+    "category": "Accessory"
+  },
+  {
+    "id": "6608bf40-36fb-4a19-b2ef-275dca24fa57",
+    "brand": "Gator Cases",
+    "name": "Guitar Pick Set",
+    "price": 90.98,
+    "category": "Accessory"
+  },
+  {
+    "id": "2d1d6a5b-cd52-46d1-9dc9-5553d869a2cc",
+    "brand": "D'Addario",
+    "name": "Instrument Case",
+    "price": 101.53,
+    "category": "Accessory"
+  },
+  {
+    "id": "3913d234-475b-4515-9360-ed1928f20cbd",
+    "brand": "Epiphone",
+    "name": "Acoustic Guitar Model 712",
+    "price": 257.76,
+    "category": "Instrument"
+  },
+  {
+    "id": "72e59332-a180-4ad5-aba2-e868b1d3aee6",
+    "brand": "Epiphone",
+    "name": "Mandolin Model 554",
+    "price": 1648.82,
+    "category": "Instrument"
+  },
+  {
+    "id": "ec50655d-b425-4cb4-8e64-70f70ea3d478",
+    "brand": "Fender",
+    "name": "Classic Piano Model 958",
+    "price": 931.91,
+    "category": "Instrument"
+  },
+  {
+    "id": "53def022-8f34-493e-b4bf-81f3e16665ca",
+    "brand": "Ibanez",
+    "name": "Electric Guitar Model 766",
+    "price": 340.22,
+    "category": "Instrument"
+  },
+  {
+    "id": "2d528255-d357-4095-bb0a-8c7e8ed57cd2",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 1",
+    "price": 18.2,
+    "category": "Book"
+  },
+  {
+    "id": "a8b0fe83-6fd7-48ff-a567-36b146ac23f4",
+    "brand": "Boss",
+    "name": "Capo",
+    "price": 153.21,
+    "category": "Accessory"
+  },
+  {
+    "id": "c53d0edc-755f-410e-b259-9750655e9033",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 2",
+    "price": 27.26,
+    "category": "Book"
+  },
+  {
+    "id": "2ffa4b41-79d1-4b14-809a-11b01bcdf799",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 3",
+    "price": 36.5,
+    "category": "Book"
+  },
+  {
+    "id": "4efa308a-5d51-4095-b926-e829b833f819",
+    "brand": "Gator Cases",
+    "name": "Clip-On Tuner",
+    "price": 162.36,
+    "category": "Accessory"
+  },
+  {
+    "id": "87f29528-9362-4c13-a9d2-f064c6963537",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 15.49,
+    "category": "Book"
+  },
+  {
+    "id": "e3a73c71-ca72-4d1d-b2e9-92ea19b001c1",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 5",
+    "price": 20.29,
+    "category": "Book"
+  },
+  {
+    "id": "d12dc668-46f4-426f-aac0-cd3d23f45591",
+    "brand": "Dunlop",
+    "name": "Effect Pedal",
+    "price": 170.73,
+    "category": "Accessory"
+  },
+  {
+    "id": "174d1acc-6d51-4ab8-9537-15117205fac0",
+    "brand": "Ernie Ball",
+    "name": "Capo",
+    "price": 95.33,
+    "category": "Accessory"
+  },
+  {
+    "id": "f9867156-4179-495f-91c9-614da6785768",
+    "brand": "Squier",
+    "name": "Violin Model 302",
+    "price": 1768.67,
+    "category": "Instrument"
+  },
+  {
+    "id": "7a975ad3-eaaa-4928-ad02-d2b7357b1067",
+    "brand": "Korg",
+    "name": "Drumsticks",
+    "price": 162.12,
+    "category": "Accessory"
+  },
+  {
+    "id": "87e5cce7-4067-44fd-a73b-34b55bb3a4e2",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 5",
+    "price": 13.51,
+    "category": "Book"
+  },
+  {
+    "id": "1777b231-8c79-4384-80c2-2632ecbac394",
+    "brand": "Alfred Music",
+    "name": "History of Music Vol. 3",
+    "price": 27.84,
+    "category": "Book"
+  },
+  {
+    "id": "31ebd909-f0e4-4f1d-8ce4-423e9f972c0c",
+    "brand": "Jackson",
+    "name": "Digital Piano Model 813",
+    "price": 947.94,
+    "category": "Instrument"
+  },
+  {
+    "id": "5048684b-3f52-417a-a5ca-4a03cb37cc9b",
+    "brand": "Ernie Ball",
+    "name": "Effect Pedal",
+    "price": 91.39,
+    "category": "Accessory"
+  },
+  {
+    "id": "95b0698b-ab2e-4844-b4c3-0bbb005d5b13",
+    "brand": "Mel Bay",
+    "name": "Scale Primer Vol. 5",
+    "price": 44.21,
+    "category": "Book"
+  },
+  {
+    "id": "71968c12-7602-49a3-943d-cb34b92c8c32",
+    "brand": "Alfred Music",
+    "name": "Mastering Techniques Vol. 5",
+    "price": 45.71,
+    "category": "Book"
+  },
+  {
+    "id": "64c9b3aa-c28b-4ed9-bb66-3946845de599",
+    "brand": "Boss",
+    "name": "Clip-On Tuner",
+    "price": 192.39,
+    "category": "Accessory"
+  },
+  {
+    "id": "21774486-47cc-4c85-a559-8d259f9b5c31",
+    "brand": "Ernie Ball",
+    "name": "Metronome",
+    "price": 87.11,
+    "category": "Accessory"
+  },
+  {
+    "id": "ecbcb287-d2b1-4b5b-95dd-29103bb09991",
+    "brand": "Gator Cases",
+    "name": "Sheet Music Stand",
+    "price": 167.99,
+    "category": "Accessory"
+  },
+  {
+    "id": "bdb5c9bc-c666-4161-8331-e691de8a0350",
+    "brand": "Jackson",
+    "name": "Acoustic Drum Set Model 876",
+    "price": 894.83,
+    "category": "Instrument"
+  },
+  {
+    "id": "395a419a-f87e-4e4e-9cac-20762f47c5dd",
+    "brand": "Mel Bay",
+    "name": "Improvisation Guide Vol. 2",
+    "price": 27.73,
+    "category": "Book"
+  },
+  {
+    "id": "1778ed1e-672c-44c3-9af8-388fa39ec40d",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 1",
+    "price": 29.23,
+    "category": "Book"
+  },
+  {
+    "id": "e47c5bd5-f6ed-4bb8-bc01-9ac5a4a9eed2",
+    "brand": "Ernie Ball",
+    "name": "Music Stand",
+    "price": 59.2,
+    "category": "Accessory"
+  },
+  {
+    "id": "2a381c09-28b3-4730-b984-8b41af20c149",
+    "brand": "Steinway",
+    "name": "Violin Model 689",
+    "price": 1853.3,
+    "category": "Instrument"
+  },
+  {
+    "id": "a95f3375-95e8-46c9-b43f-4864a69fbbc8",
+    "brand": "Kawai",
+    "name": "Electric Drum Pad Model 153",
+    "price": 769.22,
+    "category": "Instrument"
+  },
+  {
+    "id": "f6d07a8a-52c3-4472-9337-89310446c582",
+    "brand": "Epiphone",
+    "name": "Cello Model 148",
+    "price": 1804.5,
+    "category": "Instrument"
+  },
+  {
+    "id": "cefadf2a-0d7b-4129-a8d9-de3b2c5748ba",
+    "brand": "Alfred Music",
+    "name": "Mastering Techniques Vol. 1",
+    "price": 37.25,
+    "category": "Book"
+  },
+  {
+    "id": "41cfce42-0a7e-49cc-9b40-29e9840a0151",
+    "brand": "Hal Leonard",
+    "name": "Music Theory Handbook Vol. 5",
+    "price": 15.85,
+    "category": "Book"
+  },
+  {
+    "id": "8b7085de-6189-4d1a-b2c0-15f2fb7343b2",
+    "brand": "Cherry Lane",
+    "name": "Mastering Techniques Vol. 2",
+    "price": 14.82,
+    "category": "Book"
+  },
+  {
+    "id": "999c779c-4a9e-482b-90d2-d29e9f50a1c9",
+    "brand": "Roland",
+    "name": "Mandolin Model 549",
+    "price": 874.07,
+    "category": "Instrument"
+  },
+  {
+    "id": "37b925c7-122e-4658-a50a-bedabb5c5766",
+    "brand": "Dunlop",
+    "name": "Metronome",
+    "price": 92.61,
+    "category": "Accessory"
+  },
+  {
+    "id": "fc9c6154-bb03-4ee4-a1ec-04bddffd869f",
+    "brand": "Ibanez",
+    "name": "Bass Guitar Model 713",
+    "price": 1639.91,
+    "category": "Instrument"
+  },
+  {
+    "id": "c1b53f6e-0b59-41d4-9b51-984ea1a173a0",
+    "brand": "Kawai",
+    "name": "Cello Model 472",
+    "price": 929.83,
+    "category": "Instrument"
+  },
+  {
+    "id": "395aa1a1-f414-4ee0-9b89-095a25a85fcc",
+    "brand": "Boss",
+    "name": "Metronome",
+    "price": 186.87,
+    "category": "Accessory"
+  },
+  {
+    "id": "718a4836-97eb-42c4-9251-933893bfa6fb",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 3",
+    "price": 36.29,
+    "category": "Book"
+  },
+  {
+    "id": "cb3b8afa-8218-40d3-a9e5-d73fad5a0544",
+    "brand": "Jackson",
+    "name": "Electric Guitar Model 445",
+    "price": 1522.11,
+    "category": "Instrument"
+  },
+  {
+    "id": "5f5f729e-f19c-406a-8701-bbb2f6007c20",
+    "brand": "Ernie Ball",
+    "name": "Capo",
+    "price": 100.72,
+    "category": "Accessory"
+  },
+  {
+    "id": "8d0f5a01-d249-426f-865a-df8aff67ed3b",
+    "brand": "Yamaha",
+    "name": "Electric Drum Pad Model 963",
+    "price": 908.82,
+    "category": "Instrument"
+  },
+  {
+    "id": "2c580c2c-fd68-4092-9984-fbb8e6127523",
+    "brand": "Kawai",
+    "name": "Digital Piano Model 484",
+    "price": 1305.11,
+    "category": "Instrument"
+  },
+  {
+    "id": "85470138-6e37-4b71-9eb5-13151194e87a",
+    "brand": "Korg",
+    "name": "Sheet Music Stand",
+    "price": 87.64,
+    "category": "Accessory"
+  },
+  {
+    "id": "3c84be92-2d86-4f6e-9576-d6e4cfe60b1e",
+    "brand": "Cherry Lane",
+    "name": "History of Music Vol. 1",
+    "price": 19.02,
+    "category": "Book"
+  },
+  {
+    "id": "b19f28c5-b1f9-4487-aae9-4d0e71cb1cd9",
+    "brand": "Hal Leonard",
+    "name": "Technique Workbook Vol. 5",
+    "price": 26.54,
+    "category": "Book"
+  },
+  {
+    "id": "1abb94b1-a5ee-4dd9-a430-54f21879b679",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 2",
+    "price": 13.63,
+    "category": "Book"
+  },
+  {
+    "id": "dc4360af-1bff-4ceb-bf4f-c7d3f6a0230b",
+    "brand": "Steinway",
+    "name": "Cello Model 811",
+    "price": 1383.58,
+    "category": "Instrument"
+  },
+  {
+    "id": "5978d610-e7a0-4c60-8e2c-6fe3e1269211",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 5",
+    "price": 24.24,
+    "category": "Book"
+  },
+  {
+    "id": "87751684-4023-455e-b58b-6e7d90685494",
+    "brand": "Gator Cases",
+    "name": "Guitar Pick Set",
+    "price": 15.24,
+    "category": "Accessory"
+  },
+  {
+    "id": "7740f181-2a67-4fb3-b3c7-9fccda72d975",
+    "brand": "Alfred Music",
+    "name": "Song Collection Vol. 5",
+    "price": 27.35,
+    "category": "Book"
+  },
+  {
+    "id": "0486434b-671b-4de1-a525-b79ffe1b32e6",
+    "brand": "Squier",
+    "name": "Acoustic Drum Set Model 462",
+    "price": 608.8,
+    "category": "Instrument"
+  },
+  {
+    "id": "ecfbc45f-3a55-41bc-80d6-feb19a7610de",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 3",
+    "price": 39.17,
+    "category": "Book"
+  },
+  {
+    "id": "566dc538-294f-4d0c-9240-307617033c64",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 1",
+    "price": 20.72,
+    "category": "Book"
+  },
+  {
+    "id": "ca9d9b5a-d584-456d-902b-a2dfb6d11435",
+    "brand": "Fender",
+    "name": "Digital Piano Model 978",
+    "price": 962.58,
+    "category": "Instrument"
+  },
+  {
+    "id": "852b8753-41f6-4c17-9487-b8db0206f928",
+    "brand": "Dunlop",
+    "name": "Instrument Case",
+    "price": 58.56,
+    "category": "Accessory"
+  },
+  {
+    "id": "e3d49458-d06c-4251-8fd6-9b56949e052b",
+    "brand": "Epiphone",
+    "name": "Bass Guitar Model 509",
+    "price": 1956.73,
+    "category": "Instrument"
+  },
+  {
+    "id": "21690a51-a1b4-4e49-8764-826563f33c5a",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 14.78,
+    "category": "Book"
+  },
+  {
+    "id": "7bd99f31-5a6e-460a-840e-61eda6788fa9",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 1",
+    "price": 47.18,
+    "category": "Book"
+  },
+  {
+    "id": "c18f6d0b-0f26-4215-9e79-ed731e0816b8",
+    "brand": "Gibson",
+    "name": "Violin Model 346",
+    "price": 1684.74,
+    "category": "Instrument"
+  },
+  {
+    "id": "3cb12cef-02cc-451b-9c08-82014fcb86e9",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 4",
+    "price": 35.08,
+    "category": "Book"
+  },
+  {
+    "id": "68c242cc-435e-4c76-bea4-1a3f2c26f229",
+    "brand": "Fender",
+    "name": "Trumpet Model 570",
+    "price": 1754.76,
+    "category": "Instrument"
+  },
+  {
+    "id": "2d9c79dd-4a32-44ca-9b36-395195ab143a",
+    "brand": "D'Addario",
+    "name": "Instrument Cable",
+    "price": 71.32,
+    "category": "Accessory"
+  },
+  {
+    "id": "53aff93e-eddd-48f3-ae0a-7c5a0d0f1873",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 4",
+    "price": 15.3,
+    "category": "Book"
+  },
+  {
+    "id": "b6b37b5d-540f-4e7b-80bf-850589ba714a",
+    "brand": "Ibanez",
+    "name": "Bass Guitar Model 404",
+    "price": 1944.55,
+    "category": "Instrument"
+  },
+  {
+    "id": "9a9e8b4a-54cb-48bb-b168-f7bc5fac92a0",
+    "brand": "Alfred Music",
+    "name": "Song Collection Vol. 1",
+    "price": 32.89,
+    "category": "Book"
+  },
+  {
+    "id": "5da66f15-c8d2-41e9-a6e5-dfe086bf7100",
+    "brand": "Steinway",
+    "name": "Trumpet Model 349",
+    "price": 1261.98,
+    "category": "Instrument"
+  },
+  {
+    "id": "994ac4cb-ad31-4d75-8b40-5e9913767787",
+    "brand": "Dunlop",
+    "name": "Microphone Stand",
+    "price": 188.42,
+    "category": "Accessory"
+  },
+  {
+    "id": "b2070f61-27df-4264-837a-631ec87050cf",
+    "brand": "Roland",
+    "name": "Cello Model 271",
+    "price": 916.38,
+    "category": "Instrument"
+  },
+  {
+    "id": "88bcbba2-e1ca-463f-a871-4d7a4f21bfd2",
+    "brand": "Korg",
+    "name": "Capo",
+    "price": 10.52,
+    "category": "Accessory"
+  },
+  {
+    "id": "ebe0ab9e-dcd3-449d-a27e-d0b1bc9880ac",
+    "brand": "Fender",
+    "name": "Classic Piano Model 583",
+    "price": 756.9,
+    "category": "Instrument"
+  },
+  {
+    "id": "f97e3b64-c6e5-4fe4-a812-4f7c4f802905",
+    "brand": "D'Addario",
+    "name": "Sheet Music Stand",
+    "price": 51.06,
+    "category": "Accessory"
+  },
+  {
+    "id": "40b478c6-3102-4cb1-8473-ee7e2ad43da9",
+    "brand": "Roland",
+    "name": "Acoustic Guitar Model 410",
+    "price": 404.95,
+    "category": "Instrument"
+  },
+  {
+    "id": "5e00adf7-9ada-4354-af28-68b5c3c9301f",
+    "brand": "D'Addario",
+    "name": "Drumsticks",
+    "price": 41.06,
+    "category": "Accessory"
+  },
+  {
+    "id": "78b9644d-ecfb-4ce4-91f9-a56b9f20fb70",
+    "brand": "Ernie Ball",
+    "name": "Microphone Stand",
+    "price": 93.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "9964b8a4-4c21-4054-af06-2854a43dca75",
+    "brand": "Fender",
+    "name": "Classic Piano Model 624",
+    "price": 719.23,
+    "category": "Instrument"
+  },
+  {
+    "id": "b6e6acc6-64fd-4410-b0cf-5b31e1d54082",
+    "brand": "Fender",
+    "name": "Violin Model 175",
+    "price": 1520.78,
+    "category": "Instrument"
+  },
+  {
+    "id": "cc63ba43-bf08-4747-a4b3-f3791e2d4d56",
+    "brand": "Boss",
+    "name": "Guitar Strap",
+    "price": 135.01,
+    "category": "Accessory"
+  },
+  {
+    "id": "0c69c87b-f196-4ea0-853f-edf7696d2ad1",
+    "brand": "Gator Cases",
+    "name": "Microphone Stand",
+    "price": 112.04,
+    "category": "Accessory"
+  },
+  {
+    "id": "313ca398-777f-4916-a3d9-63a29eaf157c",
+    "brand": "Ernie Ball",
+    "name": "Clip-On Tuner",
+    "price": 73.7,
+    "category": "Accessory"
+  },
+  {
+    "id": "701ac205-6b95-4244-83be-61c427961433",
+    "brand": "Epiphone",
+    "name": "Electric Drum Pad Model 344",
+    "price": 581.51,
+    "category": "Instrument"
+  },
+  {
+    "id": "8132086b-ba04-4343-a5ab-69aa7908f2ab",
+    "brand": "Dunlop",
+    "name": "Effect Pedal",
+    "price": 38.89,
+    "category": "Accessory"
+  },
+  {
+    "id": "03e7523c-aba3-4358-a4d3-af3ec7d8859f",
+    "brand": "Gator Cases",
+    "name": "Instrument Cable",
+    "price": 65.48,
+    "category": "Accessory"
+  },
+  {
+    "id": "b2f67938-e145-4f50-9137-f574d71893d4",
+    "brand": "Cherry Lane",
+    "name": "Chord Chart Vol. 3",
+    "price": 45.94,
+    "category": "Book"
+  },
+  {
+    "id": "b84b70a8-bd5b-4908-aa67-49489f06a5d0",
+    "brand": "Gibson",
+    "name": "Digital Piano Model 864",
+    "price": 876.51,
+    "category": "Instrument"
+  },
+  {
+    "id": "ea808eff-cdb6-4739-916c-c3d0242b8afa",
+    "brand": "Ibanez",
+    "name": "Violin Model 800",
+    "price": 1506.56,
+    "category": "Instrument"
+  },
+  {
+    "id": "79a1c53e-a3d5-41e7-8430-2ccfa1bdbe48",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 3",
+    "price": 32.7,
+    "category": "Book"
+  },
+  {
+    "id": "f1f940e1-92f3-49ec-8ee5-2b83d9258b0d",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 3",
+    "price": 40.33,
+    "category": "Book"
+  },
+  {
+    "id": "d37ee39c-a799-4e0f-84f4-af3a6c1ba652",
+    "brand": "Dunlop",
+    "name": "Effect Pedal",
+    "price": 165.43,
+    "category": "Accessory"
+  },
+  {
+    "id": "884182fb-7daf-417c-815d-d7861bd6b603",
+    "brand": "Mel Bay",
+    "name": "History of Music Vol. 2",
+    "price": 27.51,
+    "category": "Book"
+  },
+  {
+    "id": "91e9fc84-681b-4f2a-9a82-2bd7b0f149ff",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 4",
+    "price": 24.94,
+    "category": "Book"
+  },
+  {
+    "id": "65d5f9fa-d86d-4a98-86b6-8a019a418c69",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 4",
+    "price": 45.56,
+    "category": "Book"
+  },
+  {
+    "id": "402a1965-f90e-49c0-bd89-136c2b9a6309",
+    "brand": "Gator Cases",
+    "name": "Guitar Pick Set",
+    "price": 133.18,
+    "category": "Accessory"
+  },
+  {
+    "id": "b42cfccc-3aec-4344-abe6-db991b91b9e4",
+    "brand": "Squier",
+    "name": "Violin Model 109",
+    "price": 1208.85,
+    "category": "Instrument"
+  },
+  {
+    "id": "706ccde7-94e8-4f1c-8589-03c5506d367a",
+    "brand": "Ernie Ball",
+    "name": "Drumsticks",
+    "price": 183.76,
+    "category": "Accessory"
+  },
+  {
+    "id": "089ec08b-f402-4e34-8cf5-1f175cbcc274",
+    "brand": "Kawai",
+    "name": "Saxophone Model 504",
+    "price": 1396.87,
+    "category": "Instrument"
+  },
+  {
+    "id": "9e0dcb9e-18e5-4967-84c0-dd65add51d4a",
+    "brand": "Hal Leonard",
+    "name": "Improvisation Guide Vol. 3",
+    "price": 18.19,
+    "category": "Book"
+  },
+  {
+    "id": "17db23f5-9db7-41a8-9402-e6c619219277",
+    "brand": "Gator Cases",
+    "name": "Clip-On Tuner",
+    "price": 50.94,
+    "category": "Accessory"
+  },
+  {
+    "id": "ef4815a4-8047-4787-bb3e-3e247613122d",
+    "brand": "Mel Bay",
+    "name": "Beginner's Guide Vol. 4",
+    "price": 36.98,
+    "category": "Book"
+  },
+  {
+    "id": "8e695436-e675-4f83-8160-cff0f80c5df6",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 5",
+    "price": 18.39,
+    "category": "Book"
+  },
+  {
+    "id": "69d84ca2-7ca4-4bfa-b96f-b3653afb3b6e",
+    "brand": "Ernie Ball",
+    "name": "Capo",
+    "price": 143.76,
+    "category": "Accessory"
+  },
+  {
+    "id": "ef9cc2e1-7501-4f80-afeb-d8014cb49e5d",
+    "brand": "Gator Cases",
+    "name": "Effect Pedal",
+    "price": 95.34,
+    "category": "Accessory"
+  },
+  {
+    "id": "2bd15885-b213-4b33-ab02-f842a3680e73",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 3",
+    "price": 33.71,
+    "category": "Book"
+  },
+  {
+    "id": "d99e43e6-eb87-41ca-98d4-19dee3108e12",
+    "brand": "Ernie Ball",
+    "name": "Capo",
+    "price": 69.72,
+    "category": "Accessory"
+  },
+  {
+    "id": "2d15d25b-4ec1-4ca3-8afd-8b45ceefa28c",
+    "brand": "Roland",
+    "name": "Acoustic Drum Set Model 907",
+    "price": 783.48,
+    "category": "Instrument"
+  },
+  {
+    "id": "de9cd07f-eaf0-4d75-a99d-464982a2aadb",
+    "brand": "Korg",
+    "name": "Sheet Music Stand",
+    "price": 182.78,
+    "category": "Accessory"
+  },
+  {
+    "id": "5a48a0b1-f588-4da5-84ba-da1b2dceeb1e",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 4",
+    "price": 18.85,
+    "category": "Book"
+  },
+  {
+    "id": "3d4a0254-dc41-490a-a97f-fff03bb326ed",
+    "brand": "Ernie Ball",
+    "name": "Instrument Cable",
+    "price": 5.58,
+    "category": "Accessory"
+  },
+  {
+    "id": "fe4ce529-f603-409d-8ef6-e09f890b99bd",
+    "brand": "Boss",
+    "name": "Microphone Stand",
+    "price": 26.44,
+    "category": "Accessory"
+  },
+  {
+    "id": "7bb09781-11e0-4295-8d3d-2098b6d18072",
+    "brand": "Epiphone",
+    "name": "Bass Guitar Model 880",
+    "price": 1883.09,
+    "category": "Instrument"
+  },
+  {
+    "id": "a1e8893e-f37f-41dd-8197-5dc50769c02b",
+    "brand": "Gibson",
+    "name": "Saxophone Model 867",
+    "price": 249.69,
+    "category": "Instrument"
+  },
+  {
+    "id": "b675f423-dad6-48c0-b3db-cd9918c01d4f",
+    "brand": "Gibson",
+    "name": "Classic Piano Model 643",
+    "price": 503.27,
+    "category": "Instrument"
+  },
+  {
+    "id": "ef2eb2a7-cc55-4663-8f7a-1fd71da23f78",
+    "brand": "Mel Bay",
+    "name": "Music Theory Handbook Vol. 3",
+    "price": 48.22,
+    "category": "Book"
+  },
+  {
+    "id": "6e09e8cd-e582-4504-b0c2-fa01000b029b",
+    "brand": "Korg",
+    "name": "Clip-On Tuner",
+    "price": 121.81,
+    "category": "Accessory"
+  },
+  {
+    "id": "3f816b35-6ae4-4624-bb2c-fc1c7f5a41cc",
+    "brand": "Alfred Music",
+    "name": "Beginner's Guide Vol. 4",
+    "price": 27.33,
+    "category": "Book"
+  },
+  {
+    "id": "06ac4d27-7216-478b-9dc8-44e43abd8ab0",
+    "brand": "Steinway",
+    "name": "Acoustic Guitar Model 449",
+    "price": 657.42,
+    "category": "Instrument"
+  },
+  {
+    "id": "bbeab8a5-4c09-4106-bd04-992f5df3a04e",
+    "brand": "Hal Leonard",
+    "name": "Music Theory Handbook Vol. 5",
+    "price": 43.92,
+    "category": "Book"
+  },
+  {
+    "id": "57ece38a-dd59-4a06-a1fd-30b046cbdb0a",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 2",
+    "price": 31.27,
+    "category": "Book"
+  },
+  {
+    "id": "31c7fd00-0e2e-4306-95f4-3a738fef194c",
+    "brand": "Hal Leonard",
+    "name": "Improvisation Guide Vol. 4",
+    "price": 24.2,
+    "category": "Book"
+  },
+  {
+    "id": "87ace30a-1f96-4fa5-81d5-99262f1eabdb",
+    "brand": "Fender",
+    "name": "Violin Model 494",
+    "price": 1699.65,
+    "category": "Instrument"
+  },
+  {
+    "id": "9272ffeb-e63f-4d24-ab95-b7c78bb75fba",
+    "brand": "Boss",
+    "name": "Instrument Case",
+    "price": 119.83,
+    "category": "Accessory"
+  },
+  {
+    "id": "c683820f-6095-4680-8149-e7cd81c72b21",
+    "brand": "Dunlop",
+    "name": "Drumsticks",
+    "price": 106.92,
+    "category": "Accessory"
+  },
+  {
+    "id": "b029aa5d-ea8a-44d3-b91a-c59652e7ef99",
+    "brand": "Korg",
+    "name": "Microphone Stand",
+    "price": 7.58,
+    "category": "Accessory"
+  },
+  {
+    "id": "7246d3fa-6ae4-4574-8d1f-163609a4ae05",
+    "brand": "Kawai",
+    "name": "Mandolin Model 768",
+    "price": 1130.42,
+    "category": "Instrument"
+  },
+  {
+    "id": "abdfb3b8-4c13-475f-ba07-37efb858d484",
+    "brand": "Roland",
+    "name": "Digital Piano Model 986",
+    "price": 724.99,
+    "category": "Instrument"
+  },
+  {
+    "id": "3d7eb924-81f0-444a-a771-e152f48d91cf",
+    "brand": "Mel Bay",
+    "name": "Improvisation Guide Vol. 2",
+    "price": 33.11,
+    "category": "Book"
+  },
+  {
+    "id": "40d24731-85db-4572-ab1f-9a0a97e48d3e",
+    "brand": "Roland",
+    "name": "Bass Guitar Model 341",
+    "price": 585.17,
+    "category": "Instrument"
+  },
+  {
+    "id": "d6404961-959a-48b7-8bf7-17ce593e4eb2",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 5",
+    "price": 16.01,
+    "category": "Book"
+  },
+  {
+    "id": "e7885cf5-f7be-4823-84dd-eca899750022",
+    "brand": "Roland",
+    "name": "Keyboard Synth Model 170",
+    "price": 1362.43,
+    "category": "Instrument"
+  },
+  {
+    "id": "eea77ff1-77ac-402c-9e33-d4c4ce1ddf09",
+    "brand": "Squier",
+    "name": "Digital Piano Model 143",
+    "price": 1721.11,
+    "category": "Instrument"
+  },
+  {
+    "id": "bb6adfd9-adbe-49c1-97ce-5dbf74687433",
+    "brand": "Epiphone",
+    "name": "Saxophone Model 697",
+    "price": 1458.12,
+    "category": "Instrument"
+  },
+  {
+    "id": "b89bb2bf-6a51-4322-958d-2b2ab16db692",
+    "brand": "Kawai",
+    "name": "Cello Model 587",
+    "price": 920.62,
+    "category": "Instrument"
+  },
+  {
+    "id": "63a3c69b-4099-40e5-b341-0ac02c0991be",
+    "brand": "Squier",
+    "name": "Classic Piano Model 702",
+    "price": 512.37,
+    "category": "Instrument"
+  },
+  {
+    "id": "4cb030d8-25e2-40c3-9144-51eb3e523684",
+    "brand": "Squier",
+    "name": "Electric Guitar Model 435",
+    "price": 1805.48,
+    "category": "Instrument"
+  },
+  {
+    "id": "b105deb0-5755-4410-9d4f-6a55b2302653",
+    "brand": "Ernie Ball",
+    "name": "Music Stand",
+    "price": 182.17,
+    "category": "Accessory"
+  },
+  {
+    "id": "9d1a3a48-2542-41b0-bda4-de79ac3e0095",
+    "brand": "Mel Bay",
+    "name": "Scale Primer Vol. 4",
+    "price": 33.48,
+    "category": "Book"
+  },
+  {
+    "id": "67fab570-59bd-4e9b-80c9-b4b0fbe188d5",
+    "brand": "Ibanez",
+    "name": "Acoustic Drum Set Model 783",
+    "price": 627.04,
+    "category": "Instrument"
+  },
+  {
+    "id": "0ecbedab-a714-4cc7-85db-92ea2af885ee",
+    "brand": "Mel Bay",
+    "name": "History of Music Vol. 4",
+    "price": 41.09,
+    "category": "Book"
+  },
+  {
+    "id": "ac96b18b-679b-415e-915e-a8de6d836589",
+    "brand": "Yamaha",
+    "name": "Electric Drum Pad Model 160",
+    "price": 1592.22,
+    "category": "Instrument"
+  },
+  {
+    "id": "40c805ce-26f4-4706-9187-d459704e0ba0",
+    "brand": "Ibanez",
+    "name": "Trumpet Model 138",
+    "price": 598.11,
+    "category": "Instrument"
+  },
+  {
+    "id": "1b24d0d0-e16c-4916-ac7f-ca1a89077527",
+    "brand": "Steinway",
+    "name": "Mandolin Model 567",
+    "price": 1436.3,
+    "category": "Instrument"
+  },
+  {
+    "id": "c7725a74-9a2b-4119-a859-a32acf13c994",
+    "brand": "Boss",
+    "name": "Drumsticks",
+    "price": 149.04,
+    "category": "Accessory"
+  },
+  {
+    "id": "b25aa266-e685-4d75-8f32-0c5ac557d58e",
+    "brand": "Ibanez",
+    "name": "Digital Piano Model 476",
+    "price": 1535.77,
+    "category": "Instrument"
+  },
+  {
+    "id": "675eb21b-a7da-4697-92a0-6af758912a1f",
+    "brand": "Dunlop",
+    "name": "Instrument Case",
+    "price": 97.39,
+    "category": "Accessory"
+  },
+  {
+    "id": "cf49bdaa-a21a-4376-8a29-1bb3701b4c44",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 1",
+    "price": 48.9,
+    "category": "Book"
+  },
+  {
+    "id": "65ca59dd-c485-48a9-9a5e-3303351a461b",
+    "brand": "Ernie Ball",
+    "name": "Guitar Pick Set",
+    "price": 75.06,
+    "category": "Accessory"
+  },
+  {
+    "id": "f6aa63aa-1818-4b50-a5d2-4a0deb9f3aee",
+    "brand": "Squier",
+    "name": "Digital Piano Model 856",
+    "price": 573.59,
+    "category": "Instrument"
+  },
+  {
+    "id": "6b97fbde-3187-416b-ad15-9193b9c47e18",
+    "brand": "Ernie Ball",
+    "name": "Drumsticks",
+    "price": 170.33,
+    "category": "Accessory"
+  },
+  {
+    "id": "a260da28-5916-4311-85a8-a89ea8c3bbd9",
+    "brand": "Gibson",
+    "name": "Electric Guitar Model 148",
+    "price": 766.87,
+    "category": "Instrument"
+  },
+  {
+    "id": "5a13d0f2-e181-4cb6-9ab5-068a13599818",
+    "brand": "D'Addario",
+    "name": "Guitar Strap",
+    "price": 71.35,
+    "category": "Accessory"
+  },
+  {
+    "id": "31899fd1-04b9-4dc2-b885-9821593188a9",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 2",
+    "price": 23.02,
+    "category": "Book"
+  },
+  {
+    "id": "ebcfddc5-e2f2-4e93-a0b1-c24877589337",
+    "brand": "Mel Bay",
+    "name": "Scale Primer Vol. 5",
+    "price": 25.2,
+    "category": "Book"
+  },
+  {
+    "id": "906f1075-6d03-4b2d-8859-1c67892a6083",
+    "brand": "Squier",
+    "name": "Acoustic Guitar Model 627",
+    "price": 1804.93,
+    "category": "Instrument"
+  },
+  {
+    "id": "fc521de1-799f-4d43-98bf-e891b964d23f",
+    "brand": "Roland",
+    "name": "Mandolin Model 644",
+    "price": 475.82,
+    "category": "Instrument"
+  },
+  {
+    "id": "fc8b4a3b-d46f-4977-9d37-4c138098f9d0",
+    "brand": "Yamaha",
+    "name": "Classic Piano Model 146",
+    "price": 1116.69,
+    "category": "Instrument"
+  },
+  {
+    "id": "c839530d-3165-44ec-af71-c71d3e63227f",
+    "brand": "Steinway",
+    "name": "Trumpet Model 689",
+    "price": 161.27,
+    "category": "Instrument"
+  },
+  {
+    "id": "0083d650-00e1-4fce-8548-72da5b99a88b",
+    "brand": "Jackson",
+    "name": "Violin Model 160",
+    "price": 1835.94,
+    "category": "Instrument"
+  },
+  {
+    "id": "cfd77927-904f-459f-91d7-c6da2652df67",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 2",
+    "price": 44.6,
+    "category": "Book"
+  },
+  {
+    "id": "7e6fc458-7012-41c6-9233-86659c230a30",
+    "brand": "Boss",
+    "name": "Microphone Stand",
+    "price": 182.6,
+    "category": "Accessory"
+  },
+  {
+    "id": "25b7ee34-5482-444e-a9b1-9a529ccad305",
+    "brand": "Korg",
+    "name": "Instrument Case",
+    "price": 18.94,
+    "category": "Accessory"
+  },
+  {
+    "id": "575a26e0-e8d2-43f4-a775-6f6dd81fa12f",
+    "brand": "Cherry Lane",
+    "name": "Song Collection Vol. 5",
+    "price": 25.36,
+    "category": "Book"
+  },
+  {
+    "id": "000e1f1c-9ec8-4485-9f05-aca9887ad280",
+    "brand": "Dunlop",
+    "name": "Microphone Stand",
+    "price": 185.96,
+    "category": "Accessory"
+  },
+  {
+    "id": "2e7616c2-bd3f-4c1d-bc28-41bcba255ef0",
+    "brand": "Jackson",
+    "name": "Acoustic Drum Set Model 598",
+    "price": 1031.1,
+    "category": "Instrument"
+  },
+  {
+    "id": "c7d98dcc-0b5c-425a-819c-123b5ef914b2",
+    "brand": "Squier",
+    "name": "Electric Drum Pad Model 175",
+    "price": 1486.97,
+    "category": "Instrument"
+  },
+  {
+    "id": "ebf36874-68e8-44ad-8184-8b0a4e6e9bca",
+    "brand": "Ibanez",
+    "name": "Bass Guitar Model 500",
+    "price": 315.49,
+    "category": "Instrument"
+  },
+  {
+    "id": "d6860f5d-d4ab-45d0-a4e1-fec86e32ae71",
+    "brand": "Gator Cases",
+    "name": "Music Stand",
+    "price": 165.49,
+    "category": "Accessory"
+  },
+  {
+    "id": "55662a15-25c2-4f52-b989-00b2af41d00f",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 3",
+    "price": 27.41,
+    "category": "Book"
+  },
+  {
+    "id": "06b59d5f-8384-431c-bf04-676d6181964f",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 1",
+    "price": 40.18,
+    "category": "Book"
+  },
+  {
+    "id": "d0a563a4-d9c5-491a-b104-58e4c84b36d1",
+    "brand": "Epiphone",
+    "name": "Acoustic Guitar Model 252",
+    "price": 1309.2,
+    "category": "Instrument"
+  },
+  {
+    "id": "938178d3-8a2a-4a71-9e7f-effb288f9716",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 2",
+    "price": 28.44,
+    "category": "Book"
+  },
+  {
+    "id": "4d5cf10b-2e9c-4024-8ba4-caf44f1823f5",
+    "brand": "Boss",
+    "name": "Guitar Strap",
+    "price": 122.87,
+    "category": "Accessory"
+  },
+  {
+    "id": "865ebda1-2eea-451c-aa57-16d67450452c",
+    "brand": "Mel Bay",
+    "name": "Mastering Techniques Vol. 4",
+    "price": 39.31,
+    "category": "Book"
+  },
+  {
+    "id": "b58060ee-b366-4c9e-997d-c6aef40627a2",
+    "brand": "Jackson",
+    "name": "Acoustic Drum Set Model 627",
+    "price": 1624.96,
+    "category": "Instrument"
+  },
+  {
+    "id": "6d80c4b0-3c28-46a6-9a75-f2245cbde3dd",
+    "brand": "Korg",
+    "name": "Instrument Case",
+    "price": 143.71,
+    "category": "Accessory"
+  },
+  {
+    "id": "2f8fc3a7-0998-4f37-b59e-4c00fab0b08e",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 4",
+    "price": 28.79,
+    "category": "Book"
+  },
+  {
+    "id": "c01e6ff5-4e75-4e41-a60c-b67b36ba4975",
+    "brand": "Fender",
+    "name": "Digital Piano Model 550",
+    "price": 439.11,
+    "category": "Instrument"
+  },
+  {
+    "id": "9885933e-9e7b-4c96-a8e0-5b44864d6fbf",
+    "brand": "Squier",
+    "name": "Keyboard Synth Model 146",
+    "price": 506.75,
+    "category": "Instrument"
+  },
+  {
+    "id": "12c50ccc-8cd7-4f49-89d8-8be52072f33b",
+    "brand": "Boss",
+    "name": "Instrument Cable",
+    "price": 143.44,
+    "category": "Accessory"
+  },
+  {
+    "id": "ba0786d5-4609-4cc9-805c-d67fb08d00a3",
+    "brand": "Kawai",
+    "name": "Classic Piano Model 370",
+    "price": 168.79,
+    "category": "Instrument"
+  },
+  {
+    "id": "c317bfd7-acd7-4c94-9983-bb70021b388b",
+    "brand": "Ibanez",
+    "name": "Mandolin Model 682",
+    "price": 1346.32,
+    "category": "Instrument"
+  },
+  {
+    "id": "64ba5978-a17b-451a-adb2-3f9848227941",
+    "brand": "Mel Bay",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 26.01,
+    "category": "Book"
+  },
+  {
+    "id": "82864920-41f7-4736-bb30-69c17caa6cfc",
+    "brand": "Mel Bay",
+    "name": "History of Music Vol. 5",
+    "price": 11.88,
+    "category": "Book"
+  },
+  {
+    "id": "e3e407c7-f4bb-4168-82d6-8ab2a05df5b1",
+    "brand": "Ibanez",
+    "name": "Acoustic Guitar Model 597",
+    "price": 898.85,
+    "category": "Instrument"
+  },
+  {
+    "id": "d2839a0f-c860-490d-846c-9008026b8ccd",
+    "brand": "Roland",
+    "name": "Keyboard Synth Model 166",
+    "price": 1512.38,
+    "category": "Instrument"
+  },
+  {
+    "id": "802e000d-c55c-4494-b652-2264db5a3f01",
+    "brand": "Dunlop",
+    "name": "Metronome",
+    "price": 164.33,
+    "category": "Accessory"
+  },
+  {
+    "id": "ef0c9bbc-b927-492e-a236-4e30db453c6d",
+    "brand": "D'Addario",
+    "name": "Music Stand",
+    "price": 5.23,
+    "category": "Accessory"
+  },
+  {
+    "id": "8310f44e-927b-4ee8-811f-33f66c5a98b1",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 14.91,
+    "category": "Book"
+  },
+  {
+    "id": "80b37eb9-3657-4483-bf05-74c7ea3faa80",
+    "brand": "Squier",
+    "name": "Saxophone Model 352",
+    "price": 1340.99,
+    "category": "Instrument"
+  },
+  {
+    "id": "cae13ed2-3b97-4092-894b-539fd58074bc",
+    "brand": "Hal Leonard",
+    "name": "Mastering Techniques Vol. 1",
+    "price": 31.73,
+    "category": "Book"
+  },
+  {
+    "id": "39b27ea3-2ea6-410f-9d6f-34cb1975c73b",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 2",
+    "price": 47.38,
+    "category": "Book"
+  },
+  {
+    "id": "f0dadb1d-057c-4db7-848e-ccd44e9a5c19",
+    "brand": "Squier",
+    "name": "Keyboard Synth Model 634",
+    "price": 362.87,
+    "category": "Instrument"
+  },
+  {
+    "id": "548f2842-77de-4079-8a7a-7cf28ae60dea",
+    "brand": "Roland",
+    "name": "Cello Model 172",
+    "price": 1600.76,
+    "category": "Instrument"
+  },
+  {
+    "id": "7bc45fef-4a11-4e4b-b7dd-abcd00147d38",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 1",
+    "price": 31.45,
+    "category": "Book"
+  },
+  {
+    "id": "067d9382-82fe-4a0c-9b77-ecca91ae45fa",
+    "brand": "Squier",
+    "name": "Acoustic Guitar Model 892",
+    "price": 1335.31,
+    "category": "Instrument"
+  },
+  {
+    "id": "a0d14e46-689d-47f4-a889-c8eadda957aa",
+    "brand": "Gator Cases",
+    "name": "Microphone Stand",
+    "price": 40.64,
+    "category": "Accessory"
+  },
+  {
+    "id": "dcf4ba60-6334-4a56-85a1-8be04caf3411",
+    "brand": "Dunlop",
+    "name": "Sheet Music Stand",
+    "price": 77.12,
+    "category": "Accessory"
+  },
+  {
+    "id": "8eaa7f08-d3d8-470b-8a14-02a053182513",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 2",
+    "price": 31.11,
+    "category": "Book"
+  },
+  {
+    "id": "001fb527-8044-4e44-8d38-4af0e912ff1a",
+    "brand": "Gator Cases",
+    "name": "Capo",
+    "price": 53.02,
+    "category": "Accessory"
+  },
+  {
+    "id": "b595ec83-d6c1-4ad3-a0a1-eff294eb76fd",
+    "brand": "Jackson",
+    "name": "Classic Piano Model 586",
+    "price": 345.45,
+    "category": "Instrument"
+  },
+  {
+    "id": "302f419d-51da-4716-bcc0-9ca190a3d72b",
+    "brand": "Hal Leonard",
+    "name": "Music Theory Handbook Vol. 2",
+    "price": 47.36,
+    "category": "Book"
+  },
+  {
+    "id": "2c1675a2-8e13-43df-a489-863cdaa7ddd3",
+    "brand": "Dunlop",
+    "name": "Metronome",
+    "price": 173.45,
+    "category": "Accessory"
+  },
+  {
+    "id": "4c2cdf16-fecc-4542-bc64-290b17bf061a",
+    "brand": "Dunlop",
+    "name": "Instrument Cable",
+    "price": 37.39,
+    "category": "Accessory"
+  },
+  {
+    "id": "49d3b7ee-1d10-48d3-abb8-6e267a13cb43",
+    "brand": "Cherry Lane",
+    "name": "Music Theory Handbook Vol. 4",
+    "price": 36.82,
+    "category": "Book"
+  },
+  {
+    "id": "27d67044-f77c-4e52-ac01-08866c03f518",
+    "brand": "Cherry Lane",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 15.06,
+    "category": "Book"
+  },
+  {
+    "id": "bcf9a8c2-c036-4a59-a258-329f2b8a51bf",
+    "brand": "Gibson",
+    "name": "Electric Drum Pad Model 846",
+    "price": 1966.72,
+    "category": "Instrument"
+  },
+  {
+    "id": "0555acff-26c5-4fad-a4df-3299c7ecd739",
+    "brand": "Boss",
+    "name": "Instrument Case",
+    "price": 61.04,
+    "category": "Accessory"
+  },
+  {
+    "id": "e3b62873-e213-4ff8-9045-3134406e5a75",
+    "brand": "Fender",
+    "name": "Saxophone Model 582",
+    "price": 953.42,
+    "category": "Instrument"
+  },
+  {
+    "id": "c9a78635-3d32-4c8d-8dd9-31af11d2657c",
+    "brand": "Cherry Lane",
+    "name": "Technique Workbook Vol. 3",
+    "price": 29.61,
+    "category": "Book"
+  },
+  {
+    "id": "cfa52b86-2319-4046-b65a-8d82dd171e84",
+    "brand": "Roland",
+    "name": "Violin Model 524",
+    "price": 1001.31,
+    "category": "Instrument"
+  },
+  {
+    "id": "7c2161e5-1311-49be-8fba-b7e8de6a4a2e",
+    "brand": "Gator Cases",
+    "name": "Clip-On Tuner",
+    "price": 117.86,
+    "category": "Accessory"
+  },
+  {
+    "id": "60b56285-c888-4834-afb1-3802b1a9bef0",
+    "brand": "Ernie Ball",
+    "name": "Metronome",
+    "price": 160.9,
+    "category": "Accessory"
+  },
+  {
+    "id": "917aab2a-ded0-4657-8226-7af199282e52",
+    "brand": "Roland",
+    "name": "Saxophone Model 519",
+    "price": 1844.25,
+    "category": "Instrument"
+  },
+  {
+    "id": "a3628147-5b80-4fe4-a26d-2a748f68216b",
+    "brand": "D'Addario",
+    "name": "Guitar Pick Set",
+    "price": 9.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "6d0627e4-22de-4373-9867-a07477a7fcc0",
+    "brand": "Gator Cases",
+    "name": "Music Stand",
+    "price": 17.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "22296713-1872-4e8f-9a49-2175feaf1b9d",
+    "brand": "Mel Bay",
+    "name": "Ultimate Songbook Vol. 1",
+    "price": 29.27,
+    "category": "Book"
+  },
+  {
+    "id": "a18eeb84-a3db-473f-b4a3-9fdd540ec229",
+    "brand": "Cherry Lane",
+    "name": "Chord Chart Vol. 5",
+    "price": 39.44,
+    "category": "Book"
+  },
+  {
+    "id": "ba0b559f-05b0-4679-902a-c74af77caa92",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 5",
+    "price": 22.22,
+    "category": "Book"
+  },
+  {
+    "id": "76d6d5bd-3572-45e0-9e2e-f744a61f9bac",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 3",
+    "price": 49.92,
+    "category": "Book"
+  },
+  {
+    "id": "a9b53cf2-db9d-4db0-9454-146b730b021a",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 15.14,
+    "category": "Book"
+  },
+  {
+    "id": "c1e89af8-c73c-4e95-bf95-ac8307223bf3",
+    "brand": "Gator Cases",
+    "name": "Effect Pedal",
+    "price": 185.78,
+    "category": "Accessory"
+  },
+  {
+    "id": "17bc2e71-5155-4931-936e-bbe0d24940f4",
+    "brand": "Hal Leonard",
+    "name": "Music Theory Handbook Vol. 1",
+    "price": 32.6,
+    "category": "Book"
+  },
+  {
+    "id": "7babef44-dacb-4108-b910-7983a2e99cb4",
+    "brand": "Dunlop",
+    "name": "Capo",
+    "price": 45.81,
+    "category": "Accessory"
+  },
+  {
+    "id": "13a4e95b-f07e-4bc0-8f8b-7f87aa8cc060",
+    "brand": "Cherry Lane",
+    "name": "Mastering Techniques Vol. 3",
+    "price": 47.22,
+    "category": "Book"
+  },
+  {
+    "id": "82a42b09-b851-4452-a524-8b6c8eb4974d",
+    "brand": "Gator Cases",
+    "name": "Drumsticks",
+    "price": 130.52,
+    "category": "Accessory"
+  },
+  {
+    "id": "4745ff18-6f6d-4350-a3a1-9cc93e77d1ea",
+    "brand": "Hal Leonard",
+    "name": "Improvisation Guide Vol. 3",
+    "price": 13.19,
+    "category": "Book"
+  },
+  {
+    "id": "264bfa90-70cf-42e6-ac4e-92bdfcdc2048",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 3",
+    "price": 40.75,
+    "category": "Book"
+  },
+  {
+    "id": "1db1e9a1-fbce-455d-8194-1c5f8b4a8054",
+    "brand": "Yamaha",
+    "name": "Violin Model 214",
+    "price": 839.45,
+    "category": "Instrument"
+  },
+  {
+    "id": "a967656e-a625-4d95-9097-80979ba08f8f",
+    "brand": "D'Addario",
+    "name": "Music Stand",
+    "price": 139.36,
+    "category": "Accessory"
+  },
+  {
+    "id": "914d1a65-5be5-4119-9057-f333dd54790e",
+    "brand": "Epiphone",
+    "name": "Classic Piano Model 959",
+    "price": 253.42,
+    "category": "Instrument"
+  },
+  {
+    "id": "15543de5-60b2-4221-a93c-1e089b9a0b22",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 2",
+    "price": 28.67,
+    "category": "Book"
+  },
+  {
+    "id": "09e41f5b-224b-479d-ab1d-27da8f665b5a",
+    "brand": "Roland",
+    "name": "Acoustic Guitar Model 130",
+    "price": 1737.87,
+    "category": "Instrument"
+  },
+  {
+    "id": "82f30472-db4e-4516-9c86-9238c6b2c28e",
+    "brand": "Mel Bay",
+    "name": "Beginner's Guide Vol. 3",
+    "price": 32.16,
+    "category": "Book"
+  },
+  {
+    "id": "1e0e392b-f36d-4d4e-96d8-2097191e2189",
+    "brand": "Hal Leonard",
+    "name": "Technique Workbook Vol. 1",
+    "price": 27.63,
+    "category": "Book"
+  },
+  {
+    "id": "4ce7987f-1719-4dcb-84dd-6f2f383f72de",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 2",
+    "price": 37.5,
+    "category": "Book"
+  },
+  {
+    "id": "9d85bd12-157c-43c7-9433-7c43ccf34721",
+    "brand": "Steinway",
+    "name": "Violin Model 680",
+    "price": 643.47,
+    "category": "Instrument"
+  },
+  {
+    "id": "720dcf47-c8c8-42c1-831d-165e390657a9",
+    "brand": "Alfred Music",
+    "name": "History of Music Vol. 2",
+    "price": 21.19,
+    "category": "Book"
+  },
+  {
+    "id": "af25a9b7-be48-4e2a-ab76-2c558ef13ca9",
+    "brand": "Korg",
+    "name": "Instrument Case",
+    "price": 24.63,
+    "category": "Accessory"
+  },
+  {
+    "id": "24da2734-987e-414e-a9ae-ca8b548aad71",
+    "brand": "Roland",
+    "name": "Bass Guitar Model 584",
+    "price": 1729.97,
+    "category": "Instrument"
+  },
+  {
+    "id": "ef33000f-2a20-4bc4-9447-2afbaf71d315",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 1",
+    "price": 43.76,
+    "category": "Book"
+  },
+  {
+    "id": "69ffc17b-c656-4c6c-919d-d9638209c2aa",
+    "brand": "D'Addario",
+    "name": "Music Stand",
+    "price": 106.21,
+    "category": "Accessory"
+  },
+  {
+    "id": "d0574c9e-8622-4377-8015-11b075824fe7",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 2",
+    "price": 39.27,
+    "category": "Book"
+  },
+  {
+    "id": "a96ebb69-8813-4180-a0fc-6e194c17b681",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 1",
+    "price": 10.62,
+    "category": "Book"
+  },
+  {
+    "id": "f39ca3e1-2b9c-4d33-80f5-c6a3ad4220ce",
+    "brand": "Steinway",
+    "name": "Bass Guitar Model 318",
+    "price": 886.47,
+    "category": "Instrument"
+  },
+  {
+    "id": "b1bc6531-522f-488f-b983-41db9cf5b2f3",
+    "brand": "Gator Cases",
+    "name": "Guitar Strap",
+    "price": 35.02,
+    "category": "Accessory"
+  },
+  {
+    "id": "3d795b9a-df32-4c67-9f5d-2a57c0fc182f",
+    "brand": "Ibanez",
+    "name": "Acoustic Drum Set Model 266",
+    "price": 1403.22,
+    "category": "Instrument"
+  },
+  {
+    "id": "38cf10d1-ff9a-4c6d-8746-39cd5a0a43cc",
+    "brand": "Boss",
+    "name": "Instrument Case",
+    "price": 172.65,
+    "category": "Accessory"
+  },
+  {
+    "id": "e5702b58-0235-40db-8a1e-c5a718cf81d2",
+    "brand": "Ernie Ball",
+    "name": "Guitar Pick Set",
+    "price": 24.53,
+    "category": "Accessory"
+  },
+  {
+    "id": "d349af3a-7123-4958-9673-22abce009e67",
+    "brand": "Ibanez",
+    "name": "Electric Guitar Model 390",
+    "price": 1476.05,
+    "category": "Instrument"
+  },
+  {
+    "id": "2a642235-dcb4-4522-92e3-3077ec9c5588",
+    "brand": "Epiphone",
+    "name": "Acoustic Guitar Model 696",
+    "price": 1400.95,
+    "category": "Instrument"
+  },
+  {
+    "id": "a3d7832d-493b-46e9-a22b-062a8c73ecb1",
+    "brand": "Gator Cases",
+    "name": "Microphone Stand",
+    "price": 181.09,
+    "category": "Accessory"
+  },
+  {
+    "id": "4ca7cb6a-5fef-4802-93ac-96fefd50fbc8",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 3",
+    "price": 19.42,
+    "category": "Book"
+  },
+  {
+    "id": "eec5694c-2fa7-40c0-8ce2-026bc001cefd",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 5",
+    "price": 26.31,
+    "category": "Book"
+  },
+  {
+    "id": "9e586e12-61f7-463b-911b-693e1cbd84f0",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 3",
+    "price": 27.52,
+    "category": "Book"
+  },
+  {
+    "id": "88e947f9-0189-40e6-99b8-82fc7e2420e4",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 1",
+    "price": 11.44,
+    "category": "Book"
+  },
+  {
+    "id": "df6c8e25-f467-4dd5-994f-fdcf51b48cbb",
+    "brand": "D'Addario",
+    "name": "Microphone Stand",
+    "price": 92.19,
+    "category": "Accessory"
+  },
+  {
+    "id": "7a108bf4-920c-415d-8de3-c281152e106b",
+    "brand": "Gibson",
+    "name": "Violin Model 408",
+    "price": 1241.92,
+    "category": "Instrument"
+  },
+  {
+    "id": "7cf25e62-3159-4ab9-bbf3-ce17c48229a6",
+    "brand": "Roland",
+    "name": "Digital Piano Model 544",
+    "price": 1713.46,
+    "category": "Instrument"
+  },
+  {
+    "id": "cbcd73e5-6fd2-4b46-9d35-19706cd307ce",
+    "brand": "Kawai",
+    "name": "Bass Guitar Model 931",
+    "price": 1879.28,
+    "category": "Instrument"
+  },
+  {
+    "id": "65012c2a-23bf-4cef-9c36-3016b1d26d4f",
+    "brand": "D'Addario",
+    "name": "Guitar Strap",
+    "price": 40.44,
+    "category": "Accessory"
+  },
+  {
+    "id": "a99e60df-0cd4-4130-b183-a1edc1ce4448",
+    "brand": "Boss",
+    "name": "Microphone Stand",
+    "price": 48.46,
+    "category": "Accessory"
+  },
+  {
+    "id": "6d1b2734-5550-4a9d-9b56-cc3128df14e9",
+    "brand": "Dunlop",
+    "name": "Effect Pedal",
+    "price": 22.58,
+    "category": "Accessory"
+  },
+  {
+    "id": "224ac893-935e-40cb-b797-7916721c5db3",
+    "brand": "Cherry Lane",
+    "name": "Technique Workbook Vol. 3",
+    "price": 31.21,
+    "category": "Book"
+  },
+  {
+    "id": "9c0efd93-bce2-4c62-b1f6-c88e27d04a6a",
+    "brand": "Cherry Lane",
+    "name": "Chord Chart Vol. 5",
+    "price": 39.97,
+    "category": "Book"
+  },
+  {
+    "id": "7e9f1b1e-63d5-4cbf-9c7a-bea97b857ef2",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 5",
+    "price": 47.69,
+    "category": "Book"
+  },
+  {
+    "id": "9670d603-243d-4123-a633-a393d72cff64",
+    "brand": "Alfred Music",
+    "name": "Mastering Techniques Vol. 3",
+    "price": 32.63,
+    "category": "Book"
+  },
+  {
+    "id": "a59f45bf-0896-42ea-af88-cafacb6ddce8",
+    "brand": "Gibson",
+    "name": "Classic Piano Model 480",
+    "price": 1014.88,
+    "category": "Instrument"
+  },
+  {
+    "id": "71a6ecb8-3331-4bc0-ab8b-2b4bfef0725e",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 4",
+    "price": 30.32,
+    "category": "Book"
+  },
+  {
+    "id": "c68f1f40-4479-4381-8316-dda2f7f25452",
+    "brand": "Cherry Lane",
+    "name": "Song Collection Vol. 3",
+    "price": 35.17,
+    "category": "Book"
+  },
+  {
+    "id": "88172c37-12a3-4dec-924c-dc91acb524f4",
+    "brand": "Steinway",
+    "name": "Keyboard Synth Model 385",
+    "price": 1900.29,
+    "category": "Instrument"
+  },
+  {
+    "id": "baf57258-eb59-495c-827c-492c24672b1e",
+    "brand": "Fender",
+    "name": "Saxophone Model 161",
+    "price": 834.71,
+    "category": "Instrument"
+  },
+  {
+    "id": "c4bbc425-d5c2-4ab2-a0d1-1ff457b65df6",
+    "brand": "Korg",
+    "name": "Sheet Music Stand",
+    "price": 142.64,
+    "category": "Accessory"
+  },
+  {
+    "id": "05c2b115-5f36-4672-855f-4a398b96a44b",
+    "brand": "Ernie Ball",
+    "name": "Metronome",
+    "price": 26.46,
+    "category": "Accessory"
+  },
+  {
+    "id": "47c0bd8c-4bd9-45f6-8154-091e64ef7a9b",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 3",
+    "price": 21.42,
+    "category": "Book"
+  },
+  {
+    "id": "46391c1e-8b7f-42f3-bd77-139ddb1b201d",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 4",
+    "price": 34.6,
+    "category": "Book"
+  },
+  {
+    "id": "d32da46a-8879-4325-bc89-363a0748978e",
+    "brand": "Gibson",
+    "name": "Mandolin Model 306",
+    "price": 315.24,
+    "category": "Instrument"
+  },
+  {
+    "id": "f25b4e22-f2ac-4ce4-bb62-386ac585aa18",
+    "brand": "Kawai",
+    "name": "Electric Guitar Model 882",
+    "price": 496.0,
+    "category": "Instrument"
+  },
+  {
+    "id": "1510ba51-2358-4f1e-8670-2ea5e0af2c78",
+    "brand": "Mel Bay",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 38.33,
+    "category": "Book"
+  },
+  {
+    "id": "f69fce79-c14f-4b0f-bf95-1bc9908e5563",
+    "brand": "Gibson",
+    "name": "Mandolin Model 920",
+    "price": 775.59,
+    "category": "Instrument"
+  },
+  {
+    "id": "f782a1bc-08d8-413d-9b03-d30b9f82086d",
+    "brand": "Alfred Music",
+    "name": "Music Theory Handbook Vol. 3",
+    "price": 16.61,
+    "category": "Book"
+  },
+  {
+    "id": "b96b5025-9970-4fc3-bedb-43e171bde485",
+    "brand": "Boss",
+    "name": "Guitar Strap",
+    "price": 93.89,
+    "category": "Accessory"
+  },
+  {
+    "id": "ebd8bbf9-eb56-4be4-bb82-fd07bd51c703",
+    "brand": "D'Addario",
+    "name": "Clip-On Tuner",
+    "price": 61.72,
+    "category": "Accessory"
+  },
+  {
+    "id": "794861cc-eba1-43fa-b2c8-51c417a17188",
+    "brand": "Gibson",
+    "name": "Acoustic Drum Set Model 565",
+    "price": 504.98,
+    "category": "Instrument"
+  },
+  {
+    "id": "4de2f0df-2ff0-4a63-a693-5ac67f85048f",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 3",
+    "price": 34.63,
+    "category": "Book"
+  },
+  {
+    "id": "5378901d-f828-4d00-9876-33539504d8d3",
+    "brand": "Fender",
+    "name": "Saxophone Model 708",
+    "price": 301.53,
+    "category": "Instrument"
+  },
+  {
+    "id": "d475c453-d8cd-46a0-9dd5-69c881322a50",
+    "brand": "Cherry Lane",
+    "name": "Scale Primer Vol. 5",
+    "price": 10.32,
+    "category": "Book"
+  },
+  {
+    "id": "751cb16b-73f0-4e41-bb26-8a095b32e0d6",
+    "brand": "Korg",
+    "name": "Guitar Pick Set",
+    "price": 63.18,
+    "category": "Accessory"
+  },
+  {
+    "id": "95e9ad00-9b9d-4796-ae8b-6fe52a336ccf",
+    "brand": "Roland",
+    "name": "Saxophone Model 893",
+    "price": 1819.07,
+    "category": "Instrument"
+  },
+  {
+    "id": "e6472235-854f-45cd-a1a1-45b4cf3edcda",
+    "brand": "Dunlop",
+    "name": "Clip-On Tuner",
+    "price": 37.59,
+    "category": "Accessory"
+  },
+  {
+    "id": "8e2146ce-bc83-4033-89be-e225bf93a96f",
+    "brand": "Korg",
+    "name": "Instrument Case",
+    "price": 190.78,
+    "category": "Accessory"
+  },
+  {
+    "id": "7a4a8320-734f-4bf1-bd7f-ab71376c94d5",
+    "brand": "Gator Cases",
+    "name": "Instrument Cable",
+    "price": 123.38,
+    "category": "Accessory"
+  },
+  {
+    "id": "21acc783-2a0e-4dd7-aabf-8ea2daa79238",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 2",
+    "price": 10.95,
+    "category": "Book"
+  },
+  {
+    "id": "37e67d97-6206-4b47-b2e4-54d39d210c74",
+    "brand": "Alfred Music",
+    "name": "Song Collection Vol. 5",
+    "price": 23.98,
+    "category": "Book"
+  },
+  {
+    "id": "bf91ab45-a3f3-405f-a6cd-b3abf7e1d27f",
+    "brand": "Dunlop",
+    "name": "Drumsticks",
+    "price": 176.38,
+    "category": "Accessory"
+  },
+  {
+    "id": "df163978-a21b-4edb-9763-372ffdb11ede",
+    "brand": "Hal Leonard",
+    "name": "Improvisation Guide Vol. 1",
+    "price": 10.08,
+    "category": "Book"
+  },
+  {
+    "id": "0785fbb8-cfad-4694-b0f0-4077ffc71cc2",
+    "brand": "Ernie Ball",
+    "name": "Guitar Strap",
+    "price": 71.62,
+    "category": "Accessory"
+  },
+  {
+    "id": "391583a8-61ec-480b-aaa8-27475f3f04ba",
+    "brand": "Cherry Lane",
+    "name": "Music Theory Handbook Vol. 3",
+    "price": 43.35,
+    "category": "Book"
+  },
+  {
+    "id": "1af0bb19-3f76-42e2-9351-1b5f913aa88d",
+    "brand": "Ibanez",
+    "name": "Classic Piano Model 592",
+    "price": 412.77,
+    "category": "Instrument"
+  },
+  {
+    "id": "ae78b34e-3a33-4a8a-b7c4-5d3c1a6734ef",
+    "brand": "D'Addario",
+    "name": "Sheet Music Stand",
+    "price": 149.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "aa757821-0952-4a44-9b19-c4234ea3ea0a",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 3",
+    "price": 45.12,
+    "category": "Book"
+  },
+  {
+    "id": "2b9f7e15-cb67-4c62-a57b-d4bab43731bf",
+    "brand": "Mel Bay",
+    "name": "Ultimate Songbook Vol. 4",
+    "price": 42.43,
+    "category": "Book"
+  },
+  {
+    "id": "b4e8430c-af27-41e9-87d3-0b5c68caba98",
+    "brand": "Korg",
+    "name": "Instrument Cable",
+    "price": 21.76,
+    "category": "Accessory"
+  },
+  {
+    "id": "e91b53cb-6fc2-45f2-b9e1-dc65bb56860c",
+    "brand": "Korg",
+    "name": "Guitar Pick Set",
+    "price": 99.18,
+    "category": "Accessory"
+  },
+  {
+    "id": "51a6428f-d729-4584-8168-988c7d8f4737",
+    "brand": "Cherry Lane",
+    "name": "Beginner's Guide Vol. 1",
+    "price": 19.61,
+    "category": "Book"
+  },
+  {
+    "id": "fed94c81-d75e-49d3-aa6e-d8870200fdce",
+    "brand": "Steinway",
+    "name": "Keyboard Synth Model 116",
+    "price": 1718.51,
+    "category": "Instrument"
+  },
+  {
+    "id": "28d6946e-fec3-4f4a-ae4b-dce837a9f3c6",
+    "brand": "Cherry Lane",
+    "name": "Beginner's Guide Vol. 1",
+    "price": 47.72,
+    "category": "Book"
+  },
+  {
+    "id": "0c74f09f-b2ea-4bb6-808f-2b5c172dde4d",
+    "brand": "Gator Cases",
+    "name": "Effect Pedal",
+    "price": 188.93,
+    "category": "Accessory"
+  },
+  {
+    "id": "e544f7d7-fb36-4c06-b4d5-fe46ce415b67",
+    "brand": "Squier",
+    "name": "Electric Drum Pad Model 376",
+    "price": 1681.16,
+    "category": "Instrument"
+  },
+  {
+    "id": "2f14dd36-a8e4-4b67-b72e-b5004bdc215c",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 4",
+    "price": 14.1,
+    "category": "Book"
+  },
+  {
+    "id": "f1f0671e-cdf8-4387-a6e6-cd1ee33ca0ba",
+    "brand": "Roland",
+    "name": "Bass Guitar Model 970",
+    "price": 1830.38,
+    "category": "Instrument"
+  },
+  {
+    "id": "6e9a6de1-2d78-40a2-bfa6-a8b9e7ede3af",
+    "brand": "Ernie Ball",
+    "name": "Instrument Cable",
+    "price": 188.69,
+    "category": "Accessory"
+  },
+  {
+    "id": "ce140f39-7b70-4e75-b55f-e4f9863a0638",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 4",
+    "price": 10.93,
+    "category": "Book"
+  },
+  {
+    "id": "40d05734-92e7-4244-bc7d-92ca0dfe7de8",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 5",
+    "price": 34.12,
+    "category": "Book"
+  },
+  {
+    "id": "653da4ab-19a1-4973-b5bc-59641ba41dc7",
+    "brand": "Epiphone",
+    "name": "Digital Piano Model 556",
+    "price": 1953.43,
+    "category": "Instrument"
+  },
+  {
+    "id": "b370168b-ff83-4a18-8e30-e50588d115bc",
+    "brand": "Fender",
+    "name": "Bass Guitar Model 606",
+    "price": 823.99,
+    "category": "Instrument"
+  },
+  {
+    "id": "4dd2bdbd-86fe-45ac-ae28-c48ef12d09b8",
+    "brand": "Cherry Lane",
+    "name": "Improvisation Guide Vol. 5",
+    "price": 13.3,
+    "category": "Book"
+  },
+  {
+    "id": "a22626a6-2321-4a0b-8343-306c0d25fe95",
+    "brand": "Squier",
+    "name": "Saxophone Model 107",
+    "price": 473.53,
+    "category": "Instrument"
+  },
+  {
+    "id": "28a3cd8c-1ec2-46bf-8fc7-0f054a21d620",
+    "brand": "Dunlop",
+    "name": "Clip-On Tuner",
+    "price": 32.89,
+    "category": "Accessory"
+  },
+  {
+    "id": "da26f4c3-830a-493f-88f9-e1641a3bb75a",
+    "brand": "D'Addario",
+    "name": "Guitar Pick Set",
+    "price": 89.73,
+    "category": "Accessory"
+  },
+  {
+    "id": "5f881f51-2c97-4809-a3b6-19d816fe9521",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 2",
+    "price": 34.97,
+    "category": "Book"
+  },
+  {
+    "id": "91468dad-ff78-4441-b422-04eb0e1c2978",
+    "brand": "Dunlop",
+    "name": "Music Stand",
+    "price": 110.28,
+    "category": "Accessory"
+  },
+  {
+    "id": "b2aa2c57-bf86-4d4f-bdf2-d044f67fcc7b",
+    "brand": "Yamaha",
+    "name": "Digital Piano Model 211",
+    "price": 647.0,
+    "category": "Instrument"
+  },
+  {
+    "id": "c4c60a5c-5705-4aa8-b54c-514ab724d33f",
+    "brand": "D'Addario",
+    "name": "Music Stand",
+    "price": 55.81,
+    "category": "Accessory"
+  },
+  {
+    "id": "ac3b963b-4274-4fd1-98d4-69796f2272ae",
+    "brand": "Mel Bay",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 38.22,
+    "category": "Book"
+  },
+  {
+    "id": "048955f5-b81a-4408-af0e-860b89a2663b",
+    "brand": "Boss",
+    "name": "Music Stand",
+    "price": 81.72,
+    "category": "Accessory"
+  },
+  {
+    "id": "6c524488-951c-4ae2-b286-a78fa18f5a7a",
+    "brand": "Dunlop",
+    "name": "Microphone Stand",
+    "price": 187.3,
+    "category": "Accessory"
+  },
+  {
+    "id": "e6669158-b6e0-45e6-bad4-46173587c0e6",
+    "brand": "Gator Cases",
+    "name": "Microphone Stand",
+    "price": 174.75,
+    "category": "Accessory"
+  },
+  {
+    "id": "68bbeb99-57f1-43fe-99de-bea02819acfa",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 3",
+    "price": 44.3,
+    "category": "Book"
+  },
+  {
+    "id": "f99758e9-e77c-4931-8b92-0eb9944c836a",
+    "brand": "Korg",
+    "name": "Microphone Stand",
+    "price": 62.61,
+    "category": "Accessory"
+  },
+  {
+    "id": "e6f30998-7cc3-44f8-8dc8-9112205962f7",
+    "brand": "Boss",
+    "name": "Effect Pedal",
+    "price": 24.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "e3ea1e0b-9d88-463b-bccc-0ca2c85bb04a",
+    "brand": "Squier",
+    "name": "Acoustic Drum Set Model 483",
+    "price": 636.66,
+    "category": "Instrument"
+  },
+  {
+    "id": "8d2249a7-556a-475b-aceb-132fd9967054",
+    "brand": "D'Addario",
+    "name": "Drumsticks",
+    "price": 157.65,
+    "category": "Accessory"
+  },
+  {
+    "id": "6941a464-f6c1-4cad-9861-6652f41e8087",
+    "brand": "Mel Bay",
+    "name": "Scale Primer Vol. 2",
+    "price": 15.41,
+    "category": "Book"
+  },
+  {
+    "id": "f6115411-68e9-45f6-bb14-fb90bac6be8a",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 35.74,
+    "category": "Book"
+  },
+  {
+    "id": "cb0d38cf-bfbb-43ed-8129-c60ee8914636",
+    "brand": "Ernie Ball",
+    "name": "Clip-On Tuner",
+    "price": 188.3,
+    "category": "Accessory"
+  },
+  {
+    "id": "a77fc11d-10eb-4e76-a87a-9239c9bc6ca8",
+    "brand": "Cherry Lane",
+    "name": "Ultimate Songbook Vol. 1",
+    "price": 25.72,
+    "category": "Book"
+  },
+  {
+    "id": "00c63751-8bfe-47fd-90bb-5fe20edd8b1b",
+    "brand": "Alfred Music",
+    "name": "Scale Primer Vol. 5",
+    "price": 41.51,
+    "category": "Book"
+  },
+  {
+    "id": "7d4279ec-5bb4-49a6-8f2c-7c3204f8088d",
+    "brand": "Dunlop",
+    "name": "Metronome",
+    "price": 199.28,
+    "category": "Accessory"
+  },
+  {
+    "id": "5ce69825-bccd-4d18-8f64-3f51e963c146",
+    "brand": "Korg",
+    "name": "Music Stand",
+    "price": 91.67,
+    "category": "Accessory"
+  },
+  {
+    "id": "1c54849a-827e-4997-8a3b-71c091b3df8b",
+    "brand": "Hal Leonard",
+    "name": "Mastering Techniques Vol. 4",
+    "price": 17.23,
+    "category": "Book"
+  },
+  {
+    "id": "93b729fb-425b-47db-a53c-626693bd52b8",
+    "brand": "Roland",
+    "name": "Classic Piano Model 570",
+    "price": 607.13,
+    "category": "Instrument"
+  },
+  {
+    "id": "7af3a783-84c6-49b6-9394-ae4f1230582a",
+    "brand": "Boss",
+    "name": "Guitar Pick Set",
+    "price": 150.76,
+    "category": "Accessory"
+  },
+  {
+    "id": "980d18f9-c389-4daa-952c-54daee376c75",
+    "brand": "Gibson",
+    "name": "Bass Guitar Model 108",
+    "price": 734.97,
+    "category": "Instrument"
+  },
+  {
+    "id": "9ed5aadd-88d7-4e74-ae58-4f761230b7b8",
+    "brand": "Jackson",
+    "name": "Trumpet Model 139",
+    "price": 1313.56,
+    "category": "Instrument"
+  },
+  {
+    "id": "bc9bd14a-987d-41da-b30c-7312d236525d",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 3",
+    "price": 28.74,
+    "category": "Book"
+  },
+  {
+    "id": "4604b007-5bfc-4c57-9327-220680c31cfa",
+    "brand": "Korg",
+    "name": "Microphone Stand",
+    "price": 45.22,
+    "category": "Accessory"
+  },
+  {
+    "id": "db355e05-9ac8-45a6-8aa8-0fb20315649f",
+    "brand": "Gator Cases",
+    "name": "Capo",
+    "price": 57.31,
+    "category": "Accessory"
+  },
+  {
+    "id": "ef5189e4-1dda-46f1-bd5c-49ebede1d738",
+    "brand": "Hal Leonard",
+    "name": "Mastering Techniques Vol. 2",
+    "price": 19.83,
+    "category": "Book"
+  },
+  {
+    "id": "e5b1b7e6-fc57-4bfb-b8ce-8fb48d02b0e0",
+    "brand": "Fender",
+    "name": "Cello Model 518",
+    "price": 1347.27,
+    "category": "Instrument"
+  },
+  {
+    "id": "0f742a63-f407-4c3c-8d90-630adff31d31",
+    "brand": "Steinway",
+    "name": "Cello Model 688",
+    "price": 171.17,
+    "category": "Instrument"
+  },
+  {
+    "id": "5527d6f6-4f18-4bda-98e6-c8a1333e633a",
+    "brand": "Boss",
+    "name": "Instrument Case",
+    "price": 34.4,
+    "category": "Accessory"
+  },
+  {
+    "id": "adf7d9e5-84ea-4309-a15f-d4b0236a49d6",
+    "brand": "D'Addario",
+    "name": "Music Stand",
+    "price": 45.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "d438aea6-231c-4ceb-b72b-ddfbaa14a4f2",
+    "brand": "Squier",
+    "name": "Acoustic Guitar Model 698",
+    "price": 1598.59,
+    "category": "Instrument"
+  },
+  {
+    "id": "d7859dfc-7b00-4939-afd4-0fef757c1e06",
+    "brand": "Cherry Lane",
+    "name": "Technique Workbook Vol. 1",
+    "price": 11.23,
+    "category": "Book"
+  },
+  {
+    "id": "ef49486c-8656-4c75-a1f4-2f0c00525c70",
+    "brand": "Boss",
+    "name": "Sheet Music Stand",
+    "price": 69.17,
+    "category": "Accessory"
+  },
+  {
+    "id": "5e727a38-9216-4a08-86e9-61a2b77aff09",
+    "brand": "Boss",
+    "name": "Music Stand",
+    "price": 39.01,
+    "category": "Accessory"
+  },
+  {
+    "id": "156afe43-196d-4acc-b52a-80503ef75d0d",
+    "brand": "Korg",
+    "name": "Metronome",
+    "price": 122.84,
+    "category": "Accessory"
+  },
+  {
+    "id": "429dc6e6-0322-40eb-b69c-3e802fef4f78",
+    "brand": "Epiphone",
+    "name": "Keyboard Synth Model 235",
+    "price": 1811.97,
+    "category": "Instrument"
+  },
+  {
+    "id": "5245e533-b501-41cf-ac2b-f4d3f095e4c7",
+    "brand": "Jackson",
+    "name": "Electric Drum Pad Model 323",
+    "price": 1782.6,
+    "category": "Instrument"
+  },
+  {
+    "id": "014351ce-78b5-4b4f-91f5-7b1bee61b474",
+    "brand": "Korg",
+    "name": "Drumsticks",
+    "price": 128.86,
+    "category": "Accessory"
+  },
+  {
+    "id": "edcc86f2-0a44-4f96-b735-ab5653760abb",
+    "brand": "Fender",
+    "name": "Classic Piano Model 482",
+    "price": 868.6,
+    "category": "Instrument"
+  },
+  {
+    "id": "33587dc2-65ca-470e-9fdb-3c464092334a",
+    "brand": "Alfred Music",
+    "name": "Mastering Techniques Vol. 5",
+    "price": 34.47,
+    "category": "Book"
+  },
+  {
+    "id": "79be1946-1192-41fd-a438-c3bbe7031bc5",
+    "brand": "Steinway",
+    "name": "Violin Model 668",
+    "price": 842.01,
+    "category": "Instrument"
+  },
+  {
+    "id": "5db67450-2dee-4796-a71a-d49cb20c57fd",
+    "brand": "Boss",
+    "name": "Instrument Cable",
+    "price": 161.41,
+    "category": "Accessory"
+  },
+  {
+    "id": "153f2025-4874-4bcb-8138-f606a1ed08ac",
+    "brand": "Gator Cases",
+    "name": "Instrument Cable",
+    "price": 167.95,
+    "category": "Accessory"
+  },
+  {
+    "id": "620e9a6a-a561-4ef9-9628-b7718c14bc08",
+    "brand": "Hal Leonard",
+    "name": "Chord Chart Vol. 4",
+    "price": 44.95,
+    "category": "Book"
+  },
+  {
+    "id": "ddae3488-9021-495a-a541-3844d0133efa",
+    "brand": "Gibson",
+    "name": "Acoustic Guitar Model 641",
+    "price": 297.65,
+    "category": "Instrument"
+  },
+  {
+    "id": "0e92eaad-f4b3-4675-bc35-b102c8657ada",
+    "brand": "Mel Bay",
+    "name": "Mastering Techniques Vol. 4",
+    "price": 40.27,
+    "category": "Book"
+  },
+  {
+    "id": "339a0b28-a1cd-4e95-9ec8-4520a5171ec7",
+    "brand": "Mel Bay",
+    "name": "Music Theory Handbook Vol. 5",
+    "price": 23.78,
+    "category": "Book"
+  },
+  {
+    "id": "5cf9b11f-39ad-4ed2-a495-2ceb956e6ae9",
+    "brand": "Alfred Music",
+    "name": "Ultimate Songbook Vol. 5",
+    "price": 18.36,
+    "category": "Book"
+  },
+  {
+    "id": "d9b04846-c373-4ce8-b2dd-76805d769f52",
+    "brand": "Steinway",
+    "name": "Keyboard Synth Model 913",
+    "price": 1670.58,
+    "category": "Instrument"
+  },
+  {
+    "id": "6a0d7ad2-a59d-47d8-83be-704c57ec4791",
+    "brand": "Cherry Lane",
+    "name": "Mastering Techniques Vol. 1",
+    "price": 33.67,
+    "category": "Book"
+  },
+  {
+    "id": "2497452f-eb15-4aed-88f9-67ff54eebc10",
+    "brand": "Hal Leonard",
+    "name": "History of Music Vol. 2",
+    "price": 27.37,
+    "category": "Book"
+  },
+  {
+    "id": "ee935b0d-c82a-4b14-a0c7-ae8265156098",
+    "brand": "Kawai",
+    "name": "Acoustic Guitar Model 376",
+    "price": 1994.24,
+    "category": "Instrument"
+  },
+  {
+    "id": "d0b90813-fd26-4136-8cbb-fa9b04bfd046",
+    "brand": "Kawai",
+    "name": "Cello Model 229",
+    "price": 490.91,
+    "category": "Instrument"
+  },
+  {
+    "id": "7a9cfafa-1f64-4d45-9e40-2551f92f1068",
+    "brand": "Dunlop",
+    "name": "Instrument Cable",
+    "price": 115.66,
+    "category": "Accessory"
+  },
+  {
+    "id": "7842f837-d284-4209-956d-594c711fd486",
+    "brand": "Jackson",
+    "name": "Cello Model 648",
+    "price": 1181.19,
+    "category": "Instrument"
+  },
+  {
+    "id": "db4440e1-d219-4bc3-8f77-7db4595ec611",
+    "brand": "Fender",
+    "name": "Cello Model 399",
+    "price": 105.1,
+    "category": "Instrument"
+  },
+  {
+    "id": "7f92eb7a-7bad-4e00-a028-5ad6812122d4",
+    "brand": "Korg",
+    "name": "Guitar Strap",
+    "price": 49.89,
+    "category": "Accessory"
+  },
+  {
+    "id": "70c962ac-365c-4afd-8387-2b26cf185da6",
+    "brand": "Korg",
+    "name": "Instrument Cable",
+    "price": 140.57,
+    "category": "Accessory"
+  },
+  {
+    "id": "2c29db3b-1b36-466f-a85e-791fc2c2bf98",
+    "brand": "Steinway",
+    "name": "Acoustic Guitar Model 555",
+    "price": 1255.67,
+    "category": "Instrument"
+  },
+  {
+    "id": "b3299be6-ce56-4cf8-8489-cc448f61d81e",
+    "brand": "D'Addario",
+    "name": "Effect Pedal",
+    "price": 172.13,
+    "category": "Accessory"
+  },
+  {
+    "id": "2d7c74df-eff5-4587-afba-c0e0b6a234fa",
+    "brand": "Yamaha",
+    "name": "Bass Guitar Model 334",
+    "price": 1797.79,
+    "category": "Instrument"
+  },
+  {
+    "id": "c178aa50-5cfd-4b26-a130-5652b6442dcd",
+    "brand": "Mel Bay",
+    "name": "Music Theory Handbook Vol. 4",
+    "price": 21.08,
+    "category": "Book"
+  },
+  {
+    "id": "b3aa616f-c47f-4e59-9090-e5ba8202b365",
+    "brand": "D'Addario",
+    "name": "Instrument Cable",
+    "price": 81.41,
+    "category": "Accessory"
+  },
+  {
+    "id": "f567583d-08ac-4c0c-919e-299a9ce802f3",
+    "brand": "Squier",
+    "name": "Keyboard Synth Model 621",
+    "price": 1214.84,
+    "category": "Instrument"
+  },
+  {
+    "id": "80ea4828-5a5e-493c-bd13-4bec2c72a357",
+    "brand": "D'Addario",
+    "name": "Clip-On Tuner",
+    "price": 193.97,
+    "category": "Accessory"
+  },
+  {
+    "id": "6c69ef94-c1f4-4008-a125-760a34fd5ca6",
+    "brand": "Yamaha",
+    "name": "Mandolin Model 508",
+    "price": 1115.94,
+    "category": "Instrument"
+  },
+  {
+    "id": "dfd1cdb5-84a0-4cae-b5fc-1e8cc5b113d2",
+    "brand": "Epiphone",
+    "name": "Digital Piano Model 352",
+    "price": 1969.18,
+    "category": "Instrument"
+  },
+  {
+    "id": "ce9a74b7-25d2-40e0-aaff-a8b32781e93e",
+    "brand": "Jackson",
+    "name": "Electric Drum Pad Model 550",
+    "price": 1096.24,
+    "category": "Instrument"
+  },
+  {
+    "id": "e7486f56-c4fc-46ef-b64c-c8ce845937ed",
+    "brand": "Yamaha",
+    "name": "Acoustic Drum Set Model 326",
+    "price": 1632.6,
+    "category": "Instrument"
+  },
+  {
+    "id": "c1737f1c-e249-42cf-af95-27f44ade7c7c",
+    "brand": "Gator Cases",
+    "name": "Clip-On Tuner",
+    "price": 132.69,
+    "category": "Accessory"
+  },
+  {
+    "id": "3b602afe-df47-4158-90e1-8e47510e7eb0",
+    "brand": "Roland",
+    "name": "Cello Model 906",
+    "price": 287.37,
+    "category": "Instrument"
+  },
+  {
+    "id": "09869262-2ee0-47eb-baba-b2b45b9610db",
+    "brand": "Alfred Music",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 36.15,
+    "category": "Book"
+  },
+  {
+    "id": "9b89873f-9bfb-4a7d-b20a-9decba6dc61f",
+    "brand": "Fender",
+    "name": "Acoustic Drum Set Model 383",
+    "price": 416.68,
+    "category": "Instrument"
+  },
+  {
+    "id": "808df41a-9a81-4bec-a108-d5f84929a586",
+    "brand": "D'Addario",
+    "name": "Drumsticks",
+    "price": 74.09,
+    "category": "Accessory"
+  },
+  {
+    "id": "a4a78208-38c7-4653-8313-8ac80dfd90c1",
+    "brand": "Dunlop",
+    "name": "Guitar Pick Set",
+    "price": 158.44,
+    "category": "Accessory"
+  },
+  {
+    "id": "e990619a-667f-47d6-b472-12632ddf2182",
+    "brand": "Cherry Lane",
+    "name": "Mastering Techniques Vol. 4",
+    "price": 26.41,
+    "category": "Book"
+  },
+  {
+    "id": "aceae68d-8dc3-4fec-9a21-63e4414b6f03",
+    "brand": "Hal Leonard",
+    "name": "Mastering Techniques Vol. 1",
+    "price": 32.64,
+    "category": "Book"
+  },
+  {
+    "id": "4a823ce9-eafc-4649-ae1d-a59859723728",
+    "brand": "Alfred Music",
+    "name": "Improvisation Guide Vol. 3",
+    "price": 11.27,
+    "category": "Book"
+  },
+  {
+    "id": "bc7f8102-6247-4259-ad81-653c82fa4115",
+    "brand": "Kawai",
+    "name": "Cello Model 457",
+    "price": 432.59,
+    "category": "Instrument"
+  },
+  {
+    "id": "666390dd-689f-45dd-a62c-7fe7719d8fbc",
+    "brand": "Korg",
+    "name": "Capo",
+    "price": 83.51,
+    "category": "Accessory"
+  },
+  {
+    "id": "7704ac29-be21-4ae9-b857-2079c275c819",
+    "brand": "D'Addario",
+    "name": "Effect Pedal",
+    "price": 124.23,
+    "category": "Accessory"
+  },
+  {
+    "id": "7d7ec46c-dbb2-461b-9593-749da7fbb57f",
+    "brand": "Gibson",
+    "name": "Mandolin Model 555",
+    "price": 799.48,
+    "category": "Instrument"
+  },
+  {
+    "id": "b082cb86-858c-4713-a4d8-1fda09e000e6",
+    "brand": "Cherry Lane",
+    "name": "Ultimate Songbook Vol. 4",
+    "price": 46.02,
+    "category": "Book"
+  },
+  {
+    "id": "26a613b4-adad-4279-b815-40178c6fbcd9",
+    "brand": "Fender",
+    "name": "Saxophone Model 160",
+    "price": 791.83,
+    "category": "Instrument"
+  },
+  {
+    "id": "e190b5cf-8432-4d86-a022-0c9ef4447432",
+    "brand": "Ibanez",
+    "name": "Acoustic Guitar Model 699",
+    "price": 392.21,
+    "category": "Instrument"
+  },
+  {
+    "id": "ab5787b1-f341-450b-b4b0-463de639a03a",
+    "brand": "Ibanez",
+    "name": "Violin Model 541",
+    "price": 805.12,
+    "category": "Instrument"
+  },
+  {
+    "id": "01b3494e-e3cc-4a27-83cd-26e4ed1aab35",
+    "brand": "D'Addario",
+    "name": "Instrument Case",
+    "price": 189.74,
+    "category": "Accessory"
+  },
+  {
+    "id": "66cc4ee2-0468-4059-9bf7-80fcbed04a8b",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 1",
+    "price": 39.45,
+    "category": "Book"
+  },
+  {
+    "id": "58048efc-1364-4762-9a98-e30545bf2ee5",
+    "brand": "Korg",
+    "name": "Capo",
+    "price": 33.29,
+    "category": "Accessory"
+  },
+  {
+    "id": "b1f0ca59-2ae8-4c48-b252-0066e50e59a9",
+    "brand": "Mel Bay",
+    "name": "Improvisation Guide Vol. 5",
+    "price": 24.3,
+    "category": "Book"
+  },
+  {
+    "id": "2b1b75b9-1688-498e-9938-dfd0ecbb6a4b",
+    "brand": "Mel Bay",
+    "name": "History of Music Vol. 1",
+    "price": 31.07,
+    "category": "Book"
+  },
+  {
+    "id": "1f2c75a7-ba4b-4801-a009-f0655a05c378",
+    "brand": "Mel Bay",
+    "name": "Ultimate Songbook Vol. 1",
+    "price": 12.11,
+    "category": "Book"
+  },
+  {
+    "id": "e26e245f-b457-4004-919f-7ac1a755d7ea",
+    "brand": "Alfred Music",
+    "name": "Mastering Techniques Vol. 5",
+    "price": 21.49,
+    "category": "Book"
+  },
+  {
+    "id": "5f3ae59f-ccbd-4dc7-8ad9-356588cb42a3",
+    "brand": "Boss",
+    "name": "Drumsticks",
+    "price": 36.94,
+    "category": "Accessory"
+  },
+  {
+    "id": "e6776c9a-d4e9-4087-94db-767449cbc595",
+    "brand": "Hal Leonard",
+    "name": "Improvisation Guide Vol. 1",
+    "price": 12.89,
+    "category": "Book"
+  },
+  {
+    "id": "3a4b002c-5b97-40af-8de1-e5dda701dd6a",
+    "brand": "D'Addario",
+    "name": "Metronome",
+    "price": 16.75,
+    "category": "Accessory"
+  },
+  {
+    "id": "20a655d6-4425-46de-b64d-04247872f7e1",
+    "brand": "D'Addario",
+    "name": "Sheet Music Stand",
+    "price": 140.24,
+    "category": "Accessory"
+  },
+  {
+    "id": "50c3fb86-1a93-48fe-a711-4fc6ee8ccd1a",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 1",
+    "price": 15.83,
+    "category": "Book"
+  },
+  {
+    "id": "33642f9f-7767-4c4c-9583-1ebdc23cb340",
+    "brand": "Epiphone",
+    "name": "Violin Model 846",
+    "price": 132.03,
+    "category": "Instrument"
+  },
+  {
+    "id": "ce4ee2ab-ecd3-4b44-b8a1-1eae03434076",
+    "brand": "Gator Cases",
+    "name": "Sheet Music Stand",
+    "price": 46.11,
+    "category": "Accessory"
+  },
+  {
+    "id": "3e9da53b-4014-4b21-af83-1a8c391f3f75",
+    "brand": "Roland",
+    "name": "Acoustic Drum Set Model 759",
+    "price": 958.51,
+    "category": "Instrument"
+  },
+  {
+    "id": "25d46bff-4740-454a-a08d-2943b9faaa08",
+    "brand": "Boss",
+    "name": "Capo",
+    "price": 120.2,
+    "category": "Accessory"
+  },
+  {
+    "id": "6842e24a-34be-477e-8e3d-755bcf7f0b66",
+    "brand": "Cherry Lane",
+    "name": "History of Music Vol. 1",
+    "price": 16.73,
+    "category": "Book"
+  },
+  {
+    "id": "bd342879-0722-46c0-84d1-4b677eb73cea",
+    "brand": "Gibson",
+    "name": "Saxophone Model 509",
+    "price": 1332.59,
+    "category": "Instrument"
+  },
+  {
+    "id": "a069dbf5-eaf7-41f4-babb-92fefd5e7cb6",
+    "brand": "Dunlop",
+    "name": "Instrument Cable",
+    "price": 148.84,
+    "category": "Accessory"
+  },
+  {
+    "id": "d7fb5655-ab03-42a1-b7c3-ee7fb93f90aa",
+    "brand": "D'Addario",
+    "name": "Drumsticks",
+    "price": 175.12,
+    "category": "Accessory"
+  },
+  {
+    "id": "009b40ef-c8e2-4c16-90ae-543c518cbb2c",
+    "brand": "Dunlop",
+    "name": "Effect Pedal",
+    "price": 66.47,
+    "category": "Accessory"
+  },
+  {
+    "id": "c1662abe-2965-4764-a802-916f09c2cc41",
+    "brand": "Korg",
+    "name": "Instrument Case",
+    "price": 20.05,
+    "category": "Accessory"
+  },
+  {
+    "id": "9e9b3567-e16b-4ab5-9015-a771bccf6a56",
+    "brand": "Roland",
+    "name": "Digital Piano Model 941",
+    "price": 273.76,
+    "category": "Instrument"
+  },
+  {
+    "id": "4ad842c9-e143-4f7a-a596-6ed6bd8e0478",
+    "brand": "Dunlop",
+    "name": "Instrument Cable",
+    "price": 6.5,
+    "category": "Accessory"
+  },
+  {
+    "id": "4acc305f-5e17-458e-b072-ecd2e1eddb31",
+    "brand": "Hal Leonard",
+    "name": "Beginner's Guide Vol. 4",
+    "price": 38.72,
+    "category": "Book"
+  },
+  {
+    "id": "c76c85ef-35c8-4ef6-90ee-388418bc8a28",
+    "brand": "Steinway",
+    "name": "Electric Guitar Model 788",
+    "price": 1835.14,
+    "category": "Instrument"
+  },
+  {
+    "id": "2208c6b7-338e-445c-8d54-b34b65d85e1d",
+    "brand": "D'Addario",
+    "name": "Microphone Stand",
+    "price": 179.3,
+    "category": "Accessory"
+  },
+  {
+    "id": "425075f3-d026-4671-9799-c5ab7ed0912d",
+    "brand": "Korg",
+    "name": "Music Stand",
+    "price": 85.32,
+    "category": "Accessory"
+  },
+  {
+    "id": "68f6c5b0-a74c-4617-ab32-320dcb8394e4",
+    "brand": "Roland",
+    "name": "Classic Piano Model 794",
+    "price": 444.72,
+    "category": "Instrument"
+  },
+  {
+    "id": "2d173c1c-a188-4a4f-b8d4-dfa1d5ae8a9a",
+    "brand": "Yamaha",
+    "name": "Acoustic Drum Set Model 621",
+    "price": 484.54,
+    "category": "Instrument"
+  },
+  {
+    "id": "0ea04015-45a2-4c66-a2e0-db1e57dd394d",
+    "brand": "Cherry Lane",
+    "name": "Beginner's Guide Vol. 5",
+    "price": 16.63,
+    "category": "Book"
+  },
+  {
+    "id": "1a473f69-fcf8-4189-9594-9d01fc667192",
+    "brand": "Ernie Ball",
+    "name": "Capo",
+    "price": 136.88,
+    "category": "Accessory"
+  },
+  {
+    "id": "18b87066-d904-4944-91ae-5ae6fbe1a4b7",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 5",
+    "price": 26.66,
+    "category": "Book"
+  },
+  {
+    "id": "27a0fdce-1ca0-4d70-bbbc-e4ef351aac33",
+    "brand": "Roland",
+    "name": "Keyboard Synth Model 402",
+    "price": 773.42,
+    "category": "Instrument"
+  },
+  {
+    "id": "8215005c-e289-4e8c-8a03-2e7d680a29ec",
+    "brand": "Dunlop",
+    "name": "Instrument Case",
+    "price": 187.16,
+    "category": "Accessory"
+  },
+  {
+    "id": "45866caf-05ba-4fbc-bf00-d6b1b2579f0c",
+    "brand": "Mel Bay",
+    "name": "Chord Chart Vol. 2",
+    "price": 36.31,
+    "category": "Book"
+  },
+  {
+    "id": "b4c0bece-6e53-4b04-a221-604fc8e864a8",
+    "brand": "Ernie Ball",
+    "name": "Clip-On Tuner",
+    "price": 168.73,
+    "category": "Accessory"
+  },
+  {
+    "id": "ac92d7ba-9c42-4f61-b4e1-0dc6020862fd",
+    "brand": "Squier",
+    "name": "Electric Guitar Model 746",
+    "price": 894.13,
+    "category": "Instrument"
+  },
+  {
+    "id": "25f88271-c91a-4598-b4a5-ff95ea76846d",
+    "brand": "Dunlop",
+    "name": "Music Stand",
+    "price": 151.27,
+    "category": "Accessory"
+  },
+  {
+    "id": "614dd409-13d6-4f4c-b620-a26f8798f5ce",
+    "brand": "Boss",
+    "name": "Sheet Music Stand",
+    "price": 87.07,
+    "category": "Accessory"
+  },
+  {
+    "id": "6c855b75-067e-484e-b211-aa8b084aa5e0",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 3",
+    "price": 23.81,
+    "category": "Book"
+  },
+  {
+    "id": "79ff072a-544e-4efc-a077-cdb0d1b6af1c",
+    "brand": "Cherry Lane",
+    "name": "Improvisation Guide Vol. 5",
+    "price": 13.87,
+    "category": "Book"
+  },
+  {
+    "id": "638be5ad-b543-4d98-a9b5-c3cbb5cea985",
+    "brand": "Boss",
+    "name": "Effect Pedal",
+    "price": 186.23,
+    "category": "Accessory"
+  },
+  {
+    "id": "adff380d-3b70-43e8-93e1-03cf4ce00008",
+    "brand": "Korg",
+    "name": "Effect Pedal",
+    "price": 176.12,
+    "category": "Accessory"
+  },
+  {
+    "id": "549fe13d-ad1d-48da-b0a1-4ad513909cb4",
+    "brand": "Ernie Ball",
+    "name": "Effect Pedal",
+    "price": 164.49,
+    "category": "Accessory"
+  },
+  {
+    "id": "8a0e19bc-1731-4472-9505-aada3eeb1952",
+    "brand": "Mel Bay",
+    "name": "Technique Workbook Vol. 5",
+    "price": 16.46,
+    "category": "Book"
+  },
+  {
+    "id": "0d6ad99e-497a-4987-9be6-7a2ef4d451e2",
+    "brand": "Alfred Music",
+    "name": "Song Collection Vol. 3",
+    "price": 45.3,
+    "category": "Book"
+  },
+  {
+    "id": "cbaa147b-0d48-4d66-b079-cc5182e2400f",
+    "brand": "Kawai",
+    "name": "Electric Guitar Model 379",
+    "price": 1195.48,
+    "category": "Instrument"
+  },
+  {
+    "id": "62cbbcc2-29f5-4ad3-b836-043b871b965a",
+    "brand": "Hal Leonard",
+    "name": "Song Collection Vol. 1",
+    "price": 13.87,
+    "category": "Book"
+  },
+  {
+    "id": "7fa9df3e-77e0-4115-974c-20b40638acbe",
+    "brand": "Mel Bay",
+    "name": "Scale Primer Vol. 5",
+    "price": 13.03,
+    "category": "Book"
+  },
+  {
+    "id": "83295877-96ba-4878-a50d-e526a9924dce",
+    "brand": "Squier",
+    "name": "Keyboard Synth Model 852",
+    "price": 1920.15,
+    "category": "Instrument"
+  },
+  {
+    "id": "6304b699-793a-49fa-9029-c702278dc463",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 4",
+    "price": 10.83,
+    "category": "Book"
+  },
+  {
+    "id": "21a59f61-9a02-4c44-9bb2-44bb0369a5c2",
+    "brand": "Yamaha",
+    "name": "Saxophone Model 298",
+    "price": 1934.69,
+    "category": "Instrument"
+  },
+  {
+    "id": "0f589b7f-8051-42d1-845f-b62c1ed87185",
+    "brand": "Ibanez",
+    "name": "Digital Piano Model 995",
+    "price": 553.46,
+    "category": "Instrument"
+  },
+  {
+    "id": "7a14011a-e3d9-4f5d-81c3-cb0a4769b099",
+    "brand": "D'Addario",
+    "name": "Instrument Case",
+    "price": 151.68,
+    "category": "Accessory"
+  },
+  {
+    "id": "6e6ff311-22cb-4b33-b542-09d39eaf55b5",
+    "brand": "Dunlop",
+    "name": "Sheet Music Stand",
+    "price": 135.34,
+    "category": "Accessory"
+  },
+  {
+    "id": "bf3f25f4-faa0-408c-bb77-6b20935e1cae",
+    "brand": "Fender",
+    "name": "Saxophone Model 535",
+    "price": 472.35,
+    "category": "Instrument"
+  },
+  {
+    "id": "3a1c2920-ebea-4719-ac74-f7a09c78bdd8",
+    "brand": "Alfred Music",
+    "name": "Chord Chart Vol. 1",
+    "price": 35.73,
+    "category": "Book"
+  },
+  {
+    "id": "11b501e0-4722-48c3-8eda-b3878138a44e",
+    "brand": "Dunlop",
+    "name": "Metronome",
+    "price": 156.83,
+    "category": "Accessory"
+  },
+  {
+    "id": "1d293659-03b8-43c9-9cd0-8f7772aedc87",
+    "brand": "Gator Cases",
+    "name": "Effect Pedal",
+    "price": 78.8,
+    "category": "Accessory"
+  },
+  {
+    "id": "6679128b-8b8a-465a-87ca-74789ac98995",
+    "brand": "Cherry Lane",
+    "name": "History of Music Vol. 3",
+    "price": 35.48,
+    "category": "Book"
+  },
+  {
+    "id": "e5985113-e363-4b8b-8aff-5bc2f656f6e0",
+    "brand": "Kawai",
+    "name": "Digital Piano Model 150",
+    "price": 1998.75,
+    "category": "Instrument"
+  },
+  {
+    "id": "a64029e2-4f7f-4a2d-a311-f07319b5bfa1",
+    "brand": "Alfred Music",
+    "name": "Technique Workbook Vol. 4",
+    "price": 12.44,
+    "category": "Book"
+  },
+  {
+    "id": "56914751-24af-439b-96b5-1068a42d0743",
+    "brand": "Gator Cases",
+    "name": "Instrument Case",
+    "price": 125.52,
+    "category": "Accessory"
+  },
+  {
+    "id": "7643203b-13ec-402b-850b-2cff37b90d8d",
+    "brand": "Dunlop",
+    "name": "Sheet Music Stand",
+    "price": 160.48,
+    "category": "Accessory"
+  },
+  {
+    "id": "3bf0252c-70a6-4bde-a8d7-065e51a366ce",
+    "brand": "Korg",
+    "name": "Metronome",
+    "price": 166.82,
+    "category": "Accessory"
+  },
+  {
+    "id": "7e97b37b-3171-48df-a074-07a8b77bf2db",
+    "brand": "Cherry Lane",
+    "name": "Chord Chart Vol. 3",
+    "price": 18.03,
+    "category": "Book"
+  },
+  {
+    "id": "b107b363-a6a8-4d8b-8de6-bfb66ddf03c8",
+    "brand": "Cherry Lane",
+    "name": "Technique Workbook Vol. 1",
+    "price": 38.39,
+    "category": "Book"
+  },
+  {
+    "id": "b76c5142-61df-4655-a725-5fcc7ad860c4",
+    "brand": "Ernie Ball",
+    "name": "Drumsticks",
+    "price": 83.19,
+    "category": "Accessory"
+  },
+  {
+    "id": "cb46a724-3cef-4847-b563-6f25dddb56c8",
+    "brand": "Cherry Lane",
+    "name": "Ultimate Songbook Vol. 3",
+    "price": 31.57,
+    "category": "Book"
+  },
+  {
+    "id": "e5b82dea-c41a-46f2-a628-f19695777af6",
+    "brand": "Korg",
+    "name": "Clip-On Tuner",
+    "price": 139.22,
+    "category": "Accessory"
+  },
+  {
+    "id": "e0cc3e7e-381e-478f-a9c2-0375299e3809",
+    "brand": "Hal Leonard",
+    "name": "Mastering Techniques Vol. 5",
+    "price": 49.97,
+    "category": "Book"
+  },
+  {
+    "id": "2a713c53-72bc-4189-88a5-75540c13d912",
+    "brand": "Jackson",
+    "name": "Classic Piano Model 915",
+    "price": 314.3,
+    "category": "Instrument"
+  },
+  {
+    "id": "35dc63ed-4235-44ea-898d-6dda16689d43",
+    "brand": "Cherry Lane",
+    "name": "Ultimate Songbook Vol. 2",
+    "price": 12.68,
+    "category": "Book"
+  },
+  {
+    "id": "425696c5-1ee4-4e09-97ad-f491e4d68933",
+    "brand": "D'Addario",
+    "name": "Capo",
+    "price": 190.15,
+    "category": "Accessory"
+  },
+  {
+    "id": "0e28a261-0bd4-40e2-9722-7f4936dd0240",
+    "brand": "Epiphone",
+    "name": "Violin Model 810",
+    "price": 692.16,
+    "category": "Instrument"
+  },
+  {
+    "id": "a118ea3b-b4ec-401e-9bb5-b4cb2f936dce",
+    "brand": "Steinway",
+    "name": "Keyboard Synth Model 555",
+    "price": 133.63,
+    "category": "Instrument"
+  }
+]
