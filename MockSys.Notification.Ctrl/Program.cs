@@ -1,31 +1,23 @@
 using Microsoft.Azure.Functions.Worker;
+using Microsoft.Azure.Functions.Worker.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
+using MockSys.Notification.Domain.Services;
+using MockSys.Notification.Domain.Services.Contracts;
 using MockSys.Notification.Integration.Services.Contracts;
 using MockSys.Notification.Integration.Services;
-using MockSys.Notification.Domain.Services.Contracts;
-using MockSys.Notification.Domain.Services;
 
-namespace MockSys.Notification.Ctrl
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            var host = new HostBuilder()
-                .ConfigureFunctionsWorkerDefaults()
-                .ConfigureServices(services =>
-                {
-                    services.AddApplicationInsightsTelemetryWorkerService();
-                    services.ConfigureFunctionsApplicationInsights();
-                    services.AddHttpClient();
-                    services.AddTransient<IEmailSender, MailgunEmailSender>();
-                    services.AddTransient<IEmailService, EmailService>();
-                })
-                .Build();
+var builder = FunctionsApplication.CreateBuilder(args);
 
-            host.Run();
-        }
-    }
-}
+builder.ConfigureFunctionsWebApplication();
+
+builder.Services
+    .AddApplicationInsightsTelemetryWorkerService()
+    .ConfigureFunctionsApplicationInsights();
+
+builder.Services.AddHttpClient();
+builder.Services.AddTransient<IEmailSender, MailgunEmailSender>();
+builder.Services.AddTransient<IEmailService, EmailService>();
+
+
+builder.Build().Run();
