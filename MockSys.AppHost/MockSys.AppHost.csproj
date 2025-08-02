@@ -13,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MockSys.FakeDataApi\MockSys.FakeDataApi.csproj" />
+    <ProjectReference Include="..\MockSys.Notification.Ctrl\MockSys.Notification.Ctrl.csproj" />
     <ProjectReference Include="..\MockSys.Reporting.DataSync\MockSys.Reporting.DataSync.csproj" />
     <ProjectReference Include="..\MockSys.Reporting.ReportETL\MockSys.Reporting.ReportETL.csproj" />
     <ProjectReference Include="..\MockSys.Web\MockSys.Web.csproj" />

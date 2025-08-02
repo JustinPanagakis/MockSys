@@ -38,6 +38,8 @@ serviceBus.AddServiceBusQueue("reports-queue");
 
 serviceBus.AddServiceBusQueue("metrics-queue");
 
+serviceBus.AddServiceBusQueue("email-queue");
+
 
 // Add projects to the application builder
 
@@ -61,6 +63,13 @@ builder.AddAzureFunctionsProject<Projects.MockSys_Reporting_DataSync>("mocksys-r
 
 builder.AddAzureFunctionsProject<Projects.MockSys_Reporting_ReportETL>("mocksys-reporting-reportetl")
     .WithEnvironment("ASPNETCORE_URLS", "http://0.0.0.0:7243")
+    .WithReference(postgresDb)
+    .WithReference(serviceBus)
+    .WaitFor(postgresDb)
+    .WaitFor(serviceBus);
+
+builder.AddAzureFunctionsProject<Projects.MockSys_Notification_Ctrl>("mocksys-notification-ctrl")
+    .WithEnvironment("ASPNETCORE_URLS", "http://0.0.0.0:7244")
     .WithReference(postgresDb)
     .WithReference(serviceBus)
     .WaitFor(postgresDb)

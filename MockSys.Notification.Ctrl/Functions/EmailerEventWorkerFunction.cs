@@ -6,16 +6,16 @@ using Microsoft.Extensions.Logging;
 
 namespace MockSys.Notification.Ctrl.Functions
 {
-    public class EmailerWorkerFunction
+    public class EmailerEventWorkerFunction
     {
-        private readonly ILogger<EmailerWorkerFunction> _logger;
+        private readonly ILogger<EmailerEventWorkerFunction> _logger;
 
-        public EmailerWorkerFunction(ILogger<EmailerWorkerFunction> logger)
+        public EmailerEventWorkerFunction(ILogger<EmailerEventWorkerFunction> logger)
         {
             _logger = logger;
         }
 
-        [Function(nameof(EmailerWorkerFunction))]
+        [Function(nameof(EmailerEventWorkerFunction))]
         public async Task Run(
             [ServiceBusTrigger("email-queue", Connection = "mocksys-servicebus")]
             ServiceBusReceivedMessage message,
