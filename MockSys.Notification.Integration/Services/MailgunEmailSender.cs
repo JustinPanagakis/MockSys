@@ -41,22 +41,5 @@ namespace MockSys.Notification.Integration.Services
             var response = await _httpClient.SendAsync(request);
             response.EnsureSuccessStatusCode();
         }
-
-        //public static async Task<RestResponse> Send()
-        //{
-        //    var options = new RestClientOptions("https://api.mailgun.net")
-        //    {
-        //        Authenticator = new HttpBasicAuthenticator("api", Environment.GetEnvironmentVariable("API_KEY") ?? "API_KEY")
-        //    };
-
-        //    var client = new RestClient(options);
-        //    var request = new RestRequest("/v3/sandbox4608fb1dde05410d91ec77dea0af61ad.mailgun.org/messages", Method.Post);
-        //    request.AlwaysMultipartFormData = true;
-        //    request.AddParameter("from", "Mailgun Sandbox <postmaster@sandbox4608fb1dde05410d91ec77dea0af61ad.mailgun.org>");
-        //    request.AddParameter("to", "Jack Giannini <jack.giannini@gmail.com>");
-        //    request.AddParameter("subject", "Hello Jack Giannini");
-        //    request.AddParameter("text", "Congratulations Jack Giannini, you just sent an email with Mailgun! You are truly awesome!");
-        //    return await client.ExecuteAsync(request);
-        //}
     }
 }
