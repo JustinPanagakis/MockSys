@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "MockSys.Notification.Ctrl": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7249",
+      "launchBrowser": false
+    }
+  }
+}
